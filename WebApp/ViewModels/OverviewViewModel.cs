@@ -3,7 +3,7 @@
 namespace WebApp.ViewModels;
 
 
-//Exempel overview
+//Exempel overview.
 public class OverviewViewModel
 {
     public IEnumerable<Client> Clients { get; set; } = [];
