@@ -1,0 +1,47 @@
+﻿
+@model MembersViewModel
+
+@{
+    ViewData["Title"] = "Team Members";
+}
+
+<section id="team-members">
+    <div class="page-header">
+        <h1>@ViewData["Title"]</h1>
+        <button type="button" data-type="modal" data-target="#addMemberModal" class="btn btn-add">Add Member</button>
+    </div>
+
+
+    <div class="members">
+        @foreach(var member in Model.Members)
+        {
+            <div class="card member">
+                <div class="image">
+                    @if (!string.IsNullOrEmpty(member.ImageUrl))
+                    {
+                        <img src="~/images/@member.ImageUrl" alt="" />
+                    }
+                    else
+                    {
+                        <img src="~/images/avatars/Avatar1.svg" alt="" />
+                    }
+                </div>
+                    <h4 class="name">@member.FirstName @member.LastName</h4>
+                <div class="jobtitle">@member.JobTitle</div>
+
+                <div class="email">@member.Email</div>
+                <div class="phone">@member.PhoneNumber</div>   
+                <div class="role"></div>
+
+
+            </div>
+        }
+    </div>
+</section>
+
+<partial name="Partials/Modals/_AddMemberModal" model="Model.AddMemberForm"/>
+
+
+                    <script src="~/js/modals.js"></script>
+                    <script src="~/js/validate.js"></script>
+                    <script src="~/js/forms.js"></script>

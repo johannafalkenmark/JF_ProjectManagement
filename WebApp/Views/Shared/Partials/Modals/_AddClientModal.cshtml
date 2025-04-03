@@ -1,0 +1,62 @@
+﻿@model AddClientForm
+
+<div id="addClientModal" class="modal">
+    <div class="card">
+        <div class="card-header">
+            <h3>Add Client</h3>
+            <button type="button" class="btn-close" data-type="close" data-target="#addClientModal"></button>
+        </div>
+        <div class="card-body">
+            <form asp-controller="Clients" asp-action="Add" method="post" enctype="multipart/form-data" novalidate>
+                @if (!string.IsNullOrEmpty(ViewBag?.AddClientErrorMessage))
+                {
+                    <div class="alert-notification error">
+                        @ViewBag?.AddMemberErrorMessage
+                    </div>
+                }
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="ClientName"></label>
+                        <span asp-validation-for="ClientName"></span>
+                    </div>
+                    <input asp-for="ClientName" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="Email"></label>
+                        <span asp-validation-for="Email"></span>
+                    </div>
+                    <input asp-for="Email" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="BillingAddress"></label>
+                        <span asp-validation-for="BillingAddress"></span>
+                    </div>
+                    <input asp-for="BillingAddress" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="BillingReference"></label>
+                        <span asp-validation-for="BillingReference"></span>
+                    </div>
+                    <input asp-for="BillingReference" />
+                </div>
+
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-submit">Add Client</button>
+                </div>
+
+            </form>
+        </div>
+        <div class="card-footer"></div>
+    </div>
+</div>
+<script src="~/js/modals.js"></script>
+<script src="~/js/validate.js"></script>
+<script src="~/js/forms.js"></script>
+<script src="~/js/site.js"></script>

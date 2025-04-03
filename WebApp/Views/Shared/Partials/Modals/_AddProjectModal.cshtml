@@ -1,0 +1,92 @@
+﻿@model AddProjectForm
+
+<div id="addProjectModal" class="modal">
+    <div class="card">
+        <div class="card-header">
+            <h3>Add Project</h3>
+            <button type="button" class="btn-close" data-type="close" data-target="#addProjectModal"></button>
+        </div>
+        <div class="card-body">
+            <form asp-controller="Projects" asp-action="Add" method="post" enctype="multipart/form-data" novalidate>
+                @if (!string.IsNullOrEmpty(ViewBag?.AddProjectErrorMessage))
+                {
+                    <div class="alert-notification error">
+                        @ViewBag?.AddMemberErrorMessage
+                    </div>
+                }
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="ProjectName"></label>
+                        <span asp-validation-for="ProjectName"></span>
+                    </div>
+                    <input asp-for="ProjectName" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="Description"></label>
+                        <span asp-validation-for="Description"></span>
+                    </div>
+                    <textarea asp-for="Description"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="StartDate"></label>
+                        <span asp-validation-for="StartDate"></span>
+                    </div>
+                    <input asp-for="StartDate" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="EndDate"></label>
+                        <span asp-validation-for="EndDate"></span>
+                    </div>
+                    <input asp-for="EndDate" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="Budget"></label>
+                        <span asp-validation-for="Budget"></span>
+                    </div>
+                    <input asp-for="Budget" />
+                </div>
+
+                  <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="StatusId"></label>
+                        <span asp-validation-for="StatusId"></span>
+                    </div>
+                    <input asp-for="StatusId" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="MemberId"></label>
+                        <span asp-validation-for="MemberId"></span>
+                    </div>
+                    <input asp-for="MemberId" />
+                </div>
+
+                <div class="form-group">
+                    <div class="field-label-group">
+                        <label asp-for="ClientId"></label>
+                        <span asp-validation-for="ClientId"></span>
+                    </div>
+                    <input asp-for="ClientId" />
+                </div>
+
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-submit">Add Project</button>
+                </div>
+
+            </form>
+        </div>
+        <div class="card-footer"></div>
+    </div>
+</div>
+<script src="~/js/site.js"></script>
+<script src="~/js/forms.js"></script>

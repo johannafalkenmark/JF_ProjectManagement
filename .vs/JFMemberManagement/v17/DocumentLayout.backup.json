@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\21mars\\membermanagement\\webapp\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\21mars\\membermanagement\\webapp\\views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\21mars\\membermanagement\\webapp\\viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\21mars\\membermanagement\\webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|c:\\projectsschool\\21mars\\membermanagement\\business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|solutionrelative:business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\21mars\\membermanagement\\webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|c:\\projectsschool\\21mars\\membermanagement\\business\\models\\projectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|solutionrelative:business\\models\\projectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\Views\\Admin\\Projects.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\Projects.cshtml",
+              "ToolTip": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\Views\\Admin\\Projects.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Admin\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T19:11:26.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OverviewViewModel.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\ViewModels\\OverviewViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\OverviewViewModel.cs",
+              "ToolTip": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\ViewModels\\OverviewViewModel.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\OverviewViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:10:57.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsViewModel.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\ViewModels\\ProjectsViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\ProjectsViewModel.cs",
+              "ToolTip": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\ViewModels\\ProjectsViewModel.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\ProjectsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:18:32.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAMwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:13:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectResult.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Models\\ProjectResult.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\ProjectResult.cs",
+              "ToolTip": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Models\\ProjectResult.cs",
+              "RelativeToolTip": "Business\\Models\\ProjectResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:07:08.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:54:31.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\AuthService.cs",
+              "ToolTip": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "Business\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:39:44.637Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

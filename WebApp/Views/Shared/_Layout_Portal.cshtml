@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        (function () {
+            if (localStorage.getItem('theme') === 'dark') {
+                document.documentElement.setAttribute('data-mode', 'dark')
+            }
+        })()
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] | Alpha Admin Portal</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="https://kit.fontawesome.com/a576612222.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    <div class="wrapper-portal">
+        <aside id="sidebar" class="sidebar">
+            <button type="button" data-type="close" data-target="#sidebar" class="btn-close"></button>
+
+            <partial name="Partials/_LinkLogotype" />
+            <partial name="Partials/_NavLinks" />
+        </aside>
+
+        <header class="header">
+ 
+            <partial name="Partials/_SearchBar" />
+            <partial name="Partials/_TopMenu" />
+
+
+@*             
+ *@        </header>
+        <main class="main">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/modals.js"></script>
+    <script src="~/js/validate.js"></script>
+    <script src="~/js/forms.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

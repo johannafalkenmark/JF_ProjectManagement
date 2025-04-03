@@ -1,0 +1,12 @@
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\bin\Debug\net9.0\Domain.dll
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\bin\Debug\net9.0\Domain.pdb
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.dll
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.pdb
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\ref\Domain.dll

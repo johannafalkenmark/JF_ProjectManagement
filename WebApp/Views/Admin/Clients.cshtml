@@ -1,0 +1,40 @@
+﻿@model ClientsViewModel
+
+@{
+    ViewData["Title"] = "Clients";
+}
+
+
+
+<section id="clients">
+    <div class="page-header">
+        <h1>@ViewData["Title"]</h1>
+        <button type="button"  data-type="modal"  data-target="#addClientModal" class="btn btn-add">Add Client</button>
+    </div>
+
+
+    <div class="clients">
+        @foreach (var client in Model.Clients)
+        {
+            <div class="card client">
+             
+                <h4 class="name">@client.ClientName</h4>
+                <div class="email">@client.Email</div>
+
+                <div class="billingreference">@client.BillingReference</div>
+                <div class="billingaddress">@client.BillingAddress</div>
+                <div class="role"></div>
+
+
+            </div>
+        }
+    </div>
+</section>
+
+<partial name="Partials/Modals/_AddClientModal" model="Model.AddClientForm" />
+
+
+<script src="~/js/modals.js"></script>
+<script src="~/js/validate.js"></script>
+<script src="~/js/forms.js"></script>
+<script src="~/js/site.js" ></script>

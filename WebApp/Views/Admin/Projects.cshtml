@@ -1,0 +1,53 @@
+﻿@model ProjectsViewModel
+
+@{
+    ViewData["Title"] = "Projects";
+}
+
+
+
+<section id="projects">
+    <div class="page-header">
+        <h1>@ViewData["Title"]</h1>
+        <button type="button" data-type="modal" data-target="#addProjectModal" class="btn btn-add">Add Project</button>
+    </div>
+
+
+    <div class="projects">
+        @foreach (var project in Model.Projects)
+        {
+            <div class="card project">
+                <div class="image">
+                  
+                        <img src="~/images/project-standard-icon.svg" alt="" />
+                    
+                </div>
+                <h4 class="name">@project.ProjectName</h4>
+                <div class="project-description">@project.Description</div>
+
+                <div class="startdate">@project.StartDate - @project.EndDate</div>
+                <div class="enddate"></div>
+                <div class="budget" >
+                    <i class="fa-duotone fa-usd"></i>
+
+                    <i src="~/images/symbols/Dollar.svg" alt="" />
+                    @project.Budget SEK 
+                </div>
+                <div class="status"> @project.Status</div>
+
+                <div class="project-members"> Members: @project.Member?.FirstName</div>
+                <div class="project-client">Client: @project.Client.ClientName</div>
+
+
+
+            </div>
+        }
+    </div>
+</section>
+
+<partial name="Partials/Modals/_AddProjectModal" model="Model.AddProjectForm" />
+
+<script src="~/js/site.js"></script>
+<script src="~/js/modals.js"></script>
+<script src="~/js/validate.js"></script>
+<script src="~/js/forms.js"></script>
