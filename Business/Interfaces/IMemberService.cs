@@ -7,6 +7,7 @@ namespace Business.Interfaces
     {
         Task<MemberResult> AddMemberToRole(string memberId, string roleName);
         Task<MemberResult> CreateMemberAsync(UserSignUpForm signUpForm, string roleName = "User");
-        Task<MemberResult> GetMembersAsync();
+        //Task<MemberResult> GetMembersAsync();
+        Task<MemberResult<IEnumerable<Member>>> GetMembersAsync();
     }
 }
