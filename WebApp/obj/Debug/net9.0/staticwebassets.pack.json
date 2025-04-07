@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\js\\validate.js"
     },
     {
+      "Id": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "PackagePath": "staticwebassets\\js\\wysiwyg.js"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

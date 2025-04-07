@@ -34,7 +34,8 @@ public class AuthController (IAuthService authService) : Controller
 
         if (result.Succeeded)
         {
-            return LocalRedirect(returnUrl);
+           
+            return LocalRedirect("/");
         }
         else
         {

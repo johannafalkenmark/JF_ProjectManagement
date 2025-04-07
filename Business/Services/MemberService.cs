@@ -14,6 +14,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Business.Services;
 
 
@@ -27,13 +28,19 @@ public class MemberService(IUserRepository userRepository, IUserAddressRepositor
     private readonly RoleManager<IdentityRole> _roleManager = roleManager;
 
 
-    public async Task<MemberResult> GetMembersAsync()
+    public async Task<MemberResult<IEnumerable<Member>>> GetMembersAsync()
     {
+        var response = await _userRepository.GetAllAsync
+      ( //lägger in filtrering, sortering här:
+      orderByDescending: true
 
+      );
+        return new MemberResult<IEnumerable<Member>> { Succeeded = true, StatusCode = 201, Result = response.Result };
+        //Hade kunnat endast skicka tillbaka mapto här
         //lägg till var address = _useradrep.get all...
 
-        var result = await _userRepository.GetAllAsync();
-        return result.MapTo<MemberResult>();
+        //var result = await _userRepository.GetAllAsync();
+        //return result.MapTo<MemberResult>();
     }
 
     public async Task<MemberResult> AddMemberToRole(string memberId, string roleName)
@@ -51,6 +58,7 @@ public class MemberService(IUserRepository userRepository, IUserAddressRepositor
              ? new MemberResult { Succeeded = true, StatusCode = 200 }
              : new MemberResult { Succeeded = false, StatusCode = 500, Error = "Unable to add user to role" };
 
+        //LÄGG in här att man automatiskt blir admin om ingen har den rollen
     }
 
 public async Task<MemberResult> CreateMemberAsync(UserSignUpForm signUpForm, string roleName = "User")
@@ -66,9 +74,12 @@ public async Task<MemberResult> CreateMemberAsync(UserSignUpForm signUpForm, str
         {
 
             var userEntity = signUpForm.MapTo<UserEntity>();
-            
-            var result = await _userManager.CreateAsync(userEntity, signUpForm.Password);
+          
+            userEntity.UserName = signUpForm.Email; 
+            userEntity.Email = userEntity.UserName;
 
+            var result = await _userManager.CreateAsync(userEntity, signUpForm.Password);
+           
 
             if (result.Succeeded)
             {

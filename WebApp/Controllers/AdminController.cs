@@ -1,4 +1,5 @@
 ﻿using Business.Interfaces;
+using Business.Models;
 using Domain.Extensions;
 using Domain.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -33,24 +34,32 @@ public class AdminController(IMemberService memberService, IProjectService proje
 
     public async Task<IActionResult> Overview()
     {
+        var projectResult = await _projectService.GetProjectsAsync();
+        var memberResult = await _memberService.GetMembersAsync();
+        var clientResult = await _clientService.GetClientsAsync();
+
         var viewmodel = new OverviewViewModel()
         {
-            Clients = await _clientService.GetClientsAsync(),
-            Projects = await _projectService.GetProjectsAsync(),
-            Members = await _memberService.GetMembersAsync()
+            Projects = projectResult.Result!,
+            Members = memberResult.Result,
+            Clients = clientResult.Result!
+
+
         };
         return View(viewmodel);
     }
 
     public async Task<IActionResult> Projects()
     {
+        var projectResult = await _projectService.GetProjectsAsync();
+        var memberResult = await _memberService.GetMembersAsync();
+        var clientResult = await _clientService.GetClientsAsync();
 
         var viewmodel = new ProjectsViewModel()
         {
-            Projects =
-            await _projectService.GetProjectsAsync(),
-            Members = await _memberService.GetMembersAsync(),
-            Clients = await _clientService.GetClientsAsync(),
+            Projects = projectResult.Result!,
+            Members = memberResult.Result,
+            Clients = clientResult.Result!  
 
 
         };
@@ -83,9 +92,12 @@ public class AdminController(IMemberService memberService, IProjectService proje
 
     public async Task<IActionResult> Members()
     {
+        var memberResult = await _memberService.GetMembersAsync();
+
+
         var viewModel = new MembersViewModel()
         {
-            Members = await _memberService.GetMembersAsync()
+            Members = memberResult.Result
         };
 
 
@@ -94,9 +106,11 @@ public class AdminController(IMemberService memberService, IProjectService proje
 
     public async Task<IActionResult> Clients()
     {
+        var clientResult = await _clientService.GetClientsAsync();
+
         var viewmodel = new ClientsViewModel()
         {
-            Clients = await _clientService.GetClientsAsync()
+            Clients = clientResult.Result!
         };
         return View(viewmodel);
     }

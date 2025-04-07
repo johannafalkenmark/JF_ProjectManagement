@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qwvnzsbzFjJDUlcqRi5qP1mkRjBGtA2bk5IGOzx0t1E=",
+  "Hash": "lFfiLkYbopCnyP/KQEFtlyd1SysKPQiax8T7OHHAn7w=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-60pepyuovr.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/avatars/Avatar2#[.{fingerprint=60pepyuovr}]?.svg.gz",
+      "RelativePath": "images/avatars/Avatar2#[.{fingerprint=nwjymn6wl4}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,19 +52,19 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ii5axltcik",
-      "Integrity": "aj8W0ztuV4htOeVMj8561u/BHgxQsME/jRGvAR9Poi4=",
+      "Fingerprint": "5y3zj56lcl",
+      "Integrity": "QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-1z5dc9oal8.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "js/site#[.{fingerprint=1z5dc9oal8}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=e1pdd1nehp}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,19 +73,19 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jhavkektm4",
-      "Integrity": "11KsCnsEwp5dv02F+YaN5iRYKTQE5p8fFa5Jcewbx0Q=",
+      "Fingerprint": "jew8y5lluv",
+      "Integrity": "C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-jm54jia678.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/symbols/Dollar#[.{fingerprint=jm54jia678}]?.svg.gz",
+      "RelativePath": "images/symbols/Dollar#[.{fingerprint=flsw1t00tn}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,19 +94,19 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q29dadg2hu",
-      "Integrity": "Mo1aT2qh0wEPCnEHDj1Xe4WjL45ip6Zw8EnG+z6RvHk=",
+      "Fingerprint": "3b2m5qrkun",
+      "Integrity": "LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-qjm26hrofc.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/project-standard-icon#[.{fingerprint=qjm26hrofc}]?.svg.gz",
+      "RelativePath": "images/project-standard-icon#[.{fingerprint=vchfjncfp1}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,11 +115,32 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mcoepreccr",
-      "Integrity": "Oqhv++RSDJbFR2ZCv3bpnJzSChYQ/SL11YO/7eZA+4o=",
+      "Fingerprint": "1l29vw74jd",
+      "Integrity": "qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg"
+    },
+    {
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "js/wysiwyg#[.{fingerprint=s0pxu39nep}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "278vl7lsi1",
+      "Integrity": "wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js"
     },
     {
       "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-61b4f2lope.gz",
@@ -143,12 +164,12 @@
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\modals.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-z0980649rk.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/symbols/Search#[.{fingerprint=z0980649rk}]?.svg.gz",
+      "RelativePath": "images/symbols/Search#[.{fingerprint=q2ndq6n8wg}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -157,19 +178,19 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "buqbd4e1u3",
-      "Integrity": "XcaEFeGGiTDQt02sQ5D5Rr65KxCZQYy1PcbWfRm/J4E=",
+      "Fingerprint": "b3r7htgxmc",
+      "Integrity": "GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-bitut0ibcm.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "css/site#[.{fingerprint=bitut0ibcm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=wnbgyun4lc}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +199,8 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yvippkqngu",
-      "Integrity": "3hSv4fAzmtMgwNIxueQXPrsFvZHltQFHvGBRTKBNi1Y=",
+      "Fingerprint": "e77dle0xlh",
+      "Integrity": "Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css"
@@ -227,12 +248,12 @@
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\validate.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-g4nu2pzgij.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/avatars/Avatar1#[.{fingerprint=g4nu2pzgij}]?.svg.gz",
+      "RelativePath": "images/avatars/Avatar1#[.{fingerprint=e7vskmhp1p}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -241,19 +262,19 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ld6o7vbuku",
-      "Integrity": "Sal72SBlNut5hs/UIzRUuIfjpjYNMJrs3twP0uJgHdg=",
+      "Fingerprint": "lcybtylh8u",
+      "Integrity": "pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-eg9p1avev5.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/symbols/Calendar#[.{fingerprint=eg9p1avev5}]?.svg.gz",
+      "RelativePath": "images/symbols/Calendar#[.{fingerprint=2fwd074x1q}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -262,8 +283,8 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mdi3h99046",
-      "Integrity": "yoR53S8pULgRQzejb4nNQoPJt1my68TvAKqgDhkpYsM=",
+      "Fingerprint": "qijxx9ejua",
+      "Integrity": "Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg"
@@ -290,12 +311,12 @@
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\forms.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-ifnld3gtwz.gz",
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "images/project-edit-icon#[.{fingerprint=ifnld3gtwz}]?.svg.gz",
+      "RelativePath": "images/project-edit-icon#[.{fingerprint=901hey0ssg}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -304,8 +325,8 @@
       "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4nty93jis6",
-      "Integrity": "cPBd7yQZ+wn2tepTWyCQOhrwHOCT6xZmoKigEaNej4I=",
+      "Fingerprint": "vm0sagnytq",
+      "Integrity": "N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg"
@@ -325,8 +346,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bitut0ibcm",
-      "Integrity": "4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog=",
+      "Fingerprint": "wnbgyun4lc",
+      "Integrity": "DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -388,8 +409,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "g4nu2pzgij",
-      "Integrity": "cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A=",
+      "Fingerprint": "e7vskmhp1p",
+      "Integrity": "BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\avatars\\Avatar1.svg"
@@ -409,8 +430,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "60pepyuovr",
-      "Integrity": "6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw=",
+      "Fingerprint": "nwjymn6wl4",
+      "Integrity": "uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\avatars\\Avatar2.svg"
@@ -430,8 +451,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ifnld3gtwz",
-      "Integrity": "Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws=",
+      "Fingerprint": "901hey0ssg",
+      "Integrity": "p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\project-edit-icon.svg"
@@ -451,8 +472,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qjm26hrofc",
-      "Integrity": "pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A=",
+      "Fingerprint": "vchfjncfp1",
+      "Integrity": "YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\project-standard-icon.svg"
@@ -472,8 +493,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "eg9p1avev5",
-      "Integrity": "4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk=",
+      "Fingerprint": "2fwd074x1q",
+      "Integrity": "XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\symbols\\Calendar.svg"
@@ -493,8 +514,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jm54jia678",
-      "Integrity": "e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8=",
+      "Fingerprint": "flsw1t00tn",
+      "Integrity": "w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\symbols\\Dollar.svg"
@@ -514,8 +535,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z0980649rk",
-      "Integrity": "TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto=",
+      "Fingerprint": "q2ndq6n8wg",
+      "Integrity": "ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\symbols\\Search.svg"
@@ -577,8 +598,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1z5dc9oal8",
-      "Integrity": "fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14=",
+      "Fingerprint": "e1pdd1nehp",
+      "Integrity": "AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -603,17 +624,38 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\validate.js"
+    },
+    {
+      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "js/wysiwyg#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s0pxu39nep",
+      "Integrity": "7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\wysiwyg.js"
     }
   ],
   "Endpoints": [
     {
-      "Route": "css/site.bitut0ibcm.css",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-bitut0ibcm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000208203206"
+          "Quality": "0.000201491034"
         }
       ],
       "ResponseHeaders": [
@@ -623,19 +665,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4802"
+          "Value": "4962"
         },
         {
           "Name": "ETag",
-          "Value": "\"3hSv4fAzmtMgwNIxueQXPrsFvZHltQFHvGBRTKBNi1Y=\""
+          "Value": "\"Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 14:14:01 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -651,26 +693,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog=\""
+          "Value": "W/\"DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "bitut0ibcm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog="
+          "Value": "sha256-DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE="
         }
       ]
     },
     {
-      "Route": "css/site.bitut0ibcm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -680,7 +714,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29151"
+          "Value": "30242"
         },
         {
           "Name": "Content-Type",
@@ -688,11 +722,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog=\""
+          "Value": "\"DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 14:14:01 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.wnbgyun4lc.css",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000201491034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4962"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnbgyun4lc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.wnbgyun4lc.css",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -702,7 +881,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bitut0ibcm"
+          "Value": "wnbgyun4lc"
         },
         {
           "Name": "label",
@@ -710,13 +889,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog="
+          "Value": "sha256-DKlKmI+tvLxMRhu7drDwz9CsNlU6BQSKf0LjwaXHXCE="
         }
       ]
     },
     {
-      "Route": "css/site.bitut0ibcm.css.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-bitut0ibcm.gz",
+      "Route": "css/site.wnbgyun4lc.css.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -725,7 +904,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4802"
+          "Value": "4962"
         },
         {
           "Name": "Content-Type",
@@ -733,11 +912,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3hSv4fAzmtMgwNIxueQXPrsFvZHltQFHvGBRTKBNi1Y=\""
+          "Value": "\"Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 14:14:01 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -755,7 +934,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bitut0ibcm"
+          "Value": "wnbgyun4lc"
         },
         {
           "Name": "label",
@@ -763,144 +942,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3hSv4fAzmtMgwNIxueQXPrsFvZHltQFHvGBRTKBNi1Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-bitut0ibcm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000208203206"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4802"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3hSv4fAzmtMgwNIxueQXPrsFvZHltQFHvGBRTKBNi1Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 14:14:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29151"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 14:14:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4w09wr+zq8l2nWU08pDT45WuQj+ToQbyeooLwbWPdog="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-bitut0ibcm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4802"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3hSv4fAzmtMgwNIxueQXPrsFvZHltQFHvGBRTKBNi1Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 14:14:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3hSv4fAzmtMgwNIxueQXPrsFvZHltQFHvGBRTKBNi1Y="
+          "Value": "sha256-Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM="
         }
       ]
     },
@@ -1501,13 +1543,13 @@
       ]
     },
     {
-      "Route": "images/avatars/Avatar1.g4nu2pzgij.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-g4nu2pzgij.gz",
+      "Route": "images/avatars/Avatar1.e7vskmhp1p.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000400160064"
+          "Quality": "0.000399680256"
         }
       ],
       "ResponseHeaders": [
@@ -1517,15 +1559,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2498"
+          "Value": "2501"
         },
         {
           "Name": "ETag",
-          "Value": "\"Sal72SBlNut5hs/UIzRUuIfjpjYNMJrs3twP0uJgHdg=\""
+          "Value": "\"pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 12:52:07 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1545,13 +1587,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A=\""
+          "Value": "W/\"BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4nu2pzgij"
+          "Value": "e7vskmhp1p"
         },
         {
           "Name": "label",
@@ -1559,12 +1601,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A="
+          "Value": "sha256-BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk="
         }
       ]
     },
     {
-      "Route": "images/avatars/Avatar1.g4nu2pzgij.svg",
+      "Route": "images/avatars/Avatar1.e7vskmhp1p.svg",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1574,7 +1616,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8401"
+          "Value": "8491"
         },
         {
           "Name": "Content-Type",
@@ -1582,11 +1624,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A=\""
+          "Value": "\"BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 12:52:07 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1596,7 +1638,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4nu2pzgij"
+          "Value": "e7vskmhp1p"
         },
         {
           "Name": "label",
@@ -1604,13 +1646,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A="
+          "Value": "sha256-BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk="
         }
       ]
     },
     {
-      "Route": "images/avatars/Avatar1.g4nu2pzgij.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-g4nu2pzgij.gz",
+      "Route": "images/avatars/Avatar1.e7vskmhp1p.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1619,7 +1661,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2498"
+          "Value": "2501"
         },
         {
           "Name": "Content-Type",
@@ -1627,11 +1669,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Sal72SBlNut5hs/UIzRUuIfjpjYNMJrs3twP0uJgHdg=\""
+          "Value": "\"pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 12:52:07 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1649,7 +1691,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4nu2pzgij"
+          "Value": "e7vskmhp1p"
         },
         {
           "Name": "label",
@@ -1657,18 +1699,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Sal72SBlNut5hs/UIzRUuIfjpjYNMJrs3twP0uJgHdg="
+          "Value": "sha256-pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s="
         }
       ]
     },
     {
       "Route": "images/avatars/Avatar1.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-g4nu2pzgij.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000400160064"
+          "Quality": "0.000399680256"
         }
       ],
       "ResponseHeaders": [
@@ -1678,15 +1720,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2498"
+          "Value": "2501"
         },
         {
           "Name": "ETag",
-          "Value": "\"Sal72SBlNut5hs/UIzRUuIfjpjYNMJrs3twP0uJgHdg=\""
+          "Value": "\"pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 12:52:07 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1706,13 +1748,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A=\""
+          "Value": "W/\"BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A="
+          "Value": "sha256-BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk="
         }
       ]
     },
@@ -1727,7 +1769,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8401"
+          "Value": "8491"
         },
         {
           "Name": "Content-Type",
@@ -1735,11 +1777,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A=\""
+          "Value": "\"BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 12:52:07 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1749,13 +1791,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cLm7OwhdI3bNnsJ55on4Vy1GZlQgCms5h97pQ4nmH7A="
+          "Value": "sha256-BnenWzhGZpuyxb3MJ1ynAtu8LsrRWgt+A9HcbhbrMqk="
         }
       ]
     },
     {
       "Route": "images/avatars/Avatar1.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-g4nu2pzgij.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1764,7 +1806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2498"
+          "Value": "2501"
         },
         {
           "Name": "Content-Type",
@@ -1772,11 +1814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Sal72SBlNut5hs/UIzRUuIfjpjYNMJrs3twP0uJgHdg=\""
+          "Value": "\"pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 12:52:07 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1794,18 +1836,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Sal72SBlNut5hs/UIzRUuIfjpjYNMJrs3twP0uJgHdg="
+          "Value": "sha256-pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s="
         }
       ]
     },
     {
-      "Route": "images/avatars/Avatar2.60pepyuovr.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-60pepyuovr.gz",
+      "Route": "images/avatars/Avatar2.nwjymn6wl4.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000333111259"
+          "Quality": "0.000332667997"
         }
       ],
       "ResponseHeaders": [
@@ -1815,15 +1857,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3001"
+          "Value": "3005"
         },
         {
           "Name": "ETag",
-          "Value": "\"aj8W0ztuV4htOeVMj8561u/BHgxQsME/jRGvAR9Poi4=\""
+          "Value": "\"QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 07:52:38 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1843,13 +1885,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw=\""
+          "Value": "W/\"uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "60pepyuovr"
+          "Value": "nwjymn6wl4"
         },
         {
           "Name": "label",
@@ -1857,12 +1899,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw="
+          "Value": "sha256-uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM="
         }
       ]
     },
     {
-      "Route": "images/avatars/Avatar2.60pepyuovr.svg",
+      "Route": "images/avatars/Avatar2.nwjymn6wl4.svg",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1872,7 +1914,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10552"
+          "Value": "10643"
         },
         {
           "Name": "Content-Type",
@@ -1880,11 +1922,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw=\""
+          "Value": "\"uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 07:52:38 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1894,7 +1936,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "60pepyuovr"
+          "Value": "nwjymn6wl4"
         },
         {
           "Name": "label",
@@ -1902,13 +1944,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw="
+          "Value": "sha256-uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM="
         }
       ]
     },
     {
-      "Route": "images/avatars/Avatar2.60pepyuovr.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-60pepyuovr.gz",
+      "Route": "images/avatars/Avatar2.nwjymn6wl4.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1917,7 +1959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3001"
+          "Value": "3005"
         },
         {
           "Name": "Content-Type",
@@ -1925,11 +1967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aj8W0ztuV4htOeVMj8561u/BHgxQsME/jRGvAR9Poi4=\""
+          "Value": "\"QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 07:52:38 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1947,7 +1989,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "60pepyuovr"
+          "Value": "nwjymn6wl4"
         },
         {
           "Name": "label",
@@ -1955,18 +1997,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aj8W0ztuV4htOeVMj8561u/BHgxQsME/jRGvAR9Poi4="
+          "Value": "sha256-QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM="
         }
       ]
     },
     {
       "Route": "images/avatars/Avatar2.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-60pepyuovr.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000333111259"
+          "Quality": "0.000332667997"
         }
       ],
       "ResponseHeaders": [
@@ -1976,15 +2018,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3001"
+          "Value": "3005"
         },
         {
           "Name": "ETag",
-          "Value": "\"aj8W0ztuV4htOeVMj8561u/BHgxQsME/jRGvAR9Poi4=\""
+          "Value": "\"QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 07:52:38 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2004,13 +2046,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw=\""
+          "Value": "W/\"uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw="
+          "Value": "sha256-uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM="
         }
       ]
     },
@@ -2025,7 +2067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10552"
+          "Value": "10643"
         },
         {
           "Name": "Content-Type",
@@ -2033,11 +2075,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw=\""
+          "Value": "\"uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 07:52:38 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2047,13 +2089,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6ih28A00j4LkHifZ9RbxV118ledtFzVLx2Yq5D8v5vw="
+          "Value": "sha256-uXSXwq5+Y8i8ZRpdQq6ukVfhfIpsYeq95vY0N/RPDbM="
         }
       ]
     },
     {
       "Route": "images/avatars/Avatar2.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-60pepyuovr.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2062,7 +2104,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3001"
+          "Value": "3005"
         },
         {
           "Name": "Content-Type",
@@ -2070,11 +2112,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aj8W0ztuV4htOeVMj8561u/BHgxQsME/jRGvAR9Poi4=\""
+          "Value": "\"QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 07:52:38 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2092,18 +2134,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aj8W0ztuV4htOeVMj8561u/BHgxQsME/jRGvAR9Poi4="
+          "Value": "sha256-QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM="
         }
       ]
     },
     {
-      "Route": "images/project-edit-icon.ifnld3gtwz.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-ifnld3gtwz.gz",
+      "Route": "images/project-edit-icon.901hey0ssg.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000617283951"
+          "Quality": "0.000616142945"
         }
       ],
       "ResponseHeaders": [
@@ -2113,15 +2155,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1619"
+          "Value": "1622"
         },
         {
           "Name": "ETag",
-          "Value": "\"cPBd7yQZ+wn2tepTWyCQOhrwHOCT6xZmoKigEaNej4I=\""
+          "Value": "\"N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:54 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2141,13 +2183,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws=\""
+          "Value": "W/\"p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ifnld3gtwz"
+          "Value": "901hey0ssg"
         },
         {
           "Name": "label",
@@ -2155,12 +2197,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws="
+          "Value": "sha256-p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc="
         }
       ]
     },
     {
-      "Route": "images/project-edit-icon.ifnld3gtwz.svg",
+      "Route": "images/project-edit-icon.901hey0ssg.svg",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2170,7 +2212,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3685"
+          "Value": "3722"
         },
         {
           "Name": "Content-Type",
@@ -2178,11 +2220,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws=\""
+          "Value": "\"p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:54 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2192,7 +2234,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ifnld3gtwz"
+          "Value": "901hey0ssg"
         },
         {
           "Name": "label",
@@ -2200,13 +2242,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws="
+          "Value": "sha256-p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc="
         }
       ]
     },
     {
-      "Route": "images/project-edit-icon.ifnld3gtwz.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-ifnld3gtwz.gz",
+      "Route": "images/project-edit-icon.901hey0ssg.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2215,7 +2257,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1619"
+          "Value": "1622"
         },
         {
           "Name": "Content-Type",
@@ -2223,11 +2265,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cPBd7yQZ+wn2tepTWyCQOhrwHOCT6xZmoKigEaNej4I=\""
+          "Value": "\"N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:54 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2245,7 +2287,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ifnld3gtwz"
+          "Value": "901hey0ssg"
         },
         {
           "Name": "label",
@@ -2253,18 +2295,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cPBd7yQZ+wn2tepTWyCQOhrwHOCT6xZmoKigEaNej4I="
+          "Value": "sha256-N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk="
         }
       ]
     },
     {
       "Route": "images/project-edit-icon.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-ifnld3gtwz.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000617283951"
+          "Quality": "0.000616142945"
         }
       ],
       "ResponseHeaders": [
@@ -2274,15 +2316,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1619"
+          "Value": "1622"
         },
         {
           "Name": "ETag",
-          "Value": "\"cPBd7yQZ+wn2tepTWyCQOhrwHOCT6xZmoKigEaNej4I=\""
+          "Value": "\"N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:54 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2302,13 +2344,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws=\""
+          "Value": "W/\"p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws="
+          "Value": "sha256-p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc="
         }
       ]
     },
@@ -2323,7 +2365,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3685"
+          "Value": "3722"
         },
         {
           "Name": "Content-Type",
@@ -2331,11 +2373,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws=\""
+          "Value": "\"p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:54 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2345,13 +2387,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ij35Zr/o6kf/ZfQgqtxoXbp7zdzCY1kH1NI8tHRi6Ws="
+          "Value": "sha256-p0rIEhg303uApdGLBJmn9Cur/CNC/lwXsbsMcu3IoOc="
         }
       ]
     },
     {
       "Route": "images/project-edit-icon.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-ifnld3gtwz.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2360,7 +2402,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1619"
+          "Value": "1622"
         },
         {
           "Name": "Content-Type",
@@ -2368,11 +2410,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cPBd7yQZ+wn2tepTWyCQOhrwHOCT6xZmoKigEaNej4I=\""
+          "Value": "\"N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:54 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2390,18 +2432,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cPBd7yQZ+wn2tepTWyCQOhrwHOCT6xZmoKigEaNej4I="
+          "Value": "sha256-N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk="
         }
       ]
     },
     {
-      "Route": "images/project-standard-icon.qjm26hrofc.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-qjm26hrofc.gz",
+      "Route": "images/project-standard-icon.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001026694045"
+          "Quality": "0.001023541453"
         }
       ],
       "ResponseHeaders": [
@@ -2411,19 +2453,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "973"
+          "Value": "976"
         },
         {
           "Name": "ETag",
-          "Value": "\"Oqhv++RSDJbFR2ZCv3bpnJzSChYQ/SL11YO/7eZA+4o=\""
+          "Value": "\"qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 16:48:18 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2439,26 +2481,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A=\""
+          "Value": "W/\"YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "qjm26hrofc"
-        },
-        {
-          "Name": "label",
-          "Value": "images/project-standard-icon.svg"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A="
+          "Value": "sha256-YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU="
         }
       ]
     },
     {
-      "Route": "images/project-standard-icon.qjm26hrofc.svg",
+      "Route": "images/project-standard-icon.svg",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2468,7 +2502,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2118"
+          "Value": "2149"
         },
         {
           "Name": "Content-Type",
@@ -2476,11 +2510,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A=\""
+          "Value": "\"YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 16:48:18 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU="
+        }
+      ]
+    },
+    {
+      "Route": "images/project-standard-icon.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI="
+        }
+      ]
+    },
+    {
+      "Route": "images/project-standard-icon.vchfjncfp1.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001023541453"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "976"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vchfjncfp1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/project-standard-icon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU="
+        }
+      ]
+    },
+    {
+      "Route": "images/project-standard-icon.vchfjncfp1.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2490,7 +2669,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qjm26hrofc"
+          "Value": "vchfjncfp1"
         },
         {
           "Name": "label",
@@ -2498,13 +2677,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A="
+          "Value": "sha256-YcuR97tzuIepeRGNH5G4V9MnhjdT7ZmrPxBZM0XE+EU="
         }
       ]
     },
     {
-      "Route": "images/project-standard-icon.qjm26hrofc.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-qjm26hrofc.gz",
+      "Route": "images/project-standard-icon.vchfjncfp1.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2513,7 +2692,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "973"
+          "Value": "976"
         },
         {
           "Name": "Content-Type",
@@ -2521,11 +2700,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Oqhv++RSDJbFR2ZCv3bpnJzSChYQ/SL11YO/7eZA+4o=\""
+          "Value": "\"qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 16:48:18 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2543,7 +2722,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qjm26hrofc"
+          "Value": "vchfjncfp1"
         },
         {
           "Name": "label",
@@ -2551,18 +2730,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Oqhv++RSDJbFR2ZCv3bpnJzSChYQ/SL11YO/7eZA+4o="
+          "Value": "sha256-qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI="
         }
       ]
     },
     {
-      "Route": "images/project-standard-icon.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-qjm26hrofc.gz",
+      "Route": "images/symbols/Calendar.2fwd074x1q.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001026694045"
+          "Quality": "0.001077586207"
         }
       ],
       "ResponseHeaders": [
@@ -2572,152 +2751,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "973"
+          "Value": "927"
         },
         {
           "Name": "ETag",
-          "Value": "\"Oqhv++RSDJbFR2ZCv3bpnJzSChYQ/SL11YO/7eZA+4o=\""
+          "Value": "\"Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 16:48:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A="
-        }
-      ]
-    },
-    {
-      "Route": "images/project-standard-icon.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2118"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 16:48:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pjiM8RmhsjwfZIoXy/dWeUsGuc2+ndI4AahRBsMzE8A="
-        }
-      ]
-    },
-    {
-      "Route": "images/project-standard-icon.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-qjm26hrofc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "973"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Oqhv++RSDJbFR2ZCv3bpnJzSChYQ/SL11YO/7eZA+4o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 16:48:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Oqhv++RSDJbFR2ZCv3bpnJzSChYQ/SL11YO/7eZA+4o="
-        }
-      ]
-    },
-    {
-      "Route": "images/symbols/Calendar.eg9p1avev5.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-eg9p1avev5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001078748652"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "926"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yoR53S8pULgRQzejb4nNQoPJt1my68TvAKqgDhkpYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:12 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2737,13 +2779,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk=\""
+          "Value": "W/\"XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eg9p1avev5"
+          "Value": "2fwd074x1q"
         },
         {
           "Name": "label",
@@ -2751,12 +2793,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk="
+          "Value": "sha256-XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM="
         }
       ]
     },
     {
-      "Route": "images/symbols/Calendar.eg9p1avev5.svg",
+      "Route": "images/symbols/Calendar.2fwd074x1q.svg",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2766,7 +2808,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2369"
+          "Value": "2376"
         },
         {
           "Name": "Content-Type",
@@ -2774,11 +2816,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk=\""
+          "Value": "\"XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:12 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2788,7 +2830,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eg9p1avev5"
+          "Value": "2fwd074x1q"
         },
         {
           "Name": "label",
@@ -2796,13 +2838,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk="
+          "Value": "sha256-XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM="
         }
       ]
     },
     {
-      "Route": "images/symbols/Calendar.eg9p1avev5.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-eg9p1avev5.gz",
+      "Route": "images/symbols/Calendar.2fwd074x1q.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2811,7 +2853,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "926"
+          "Value": "927"
         },
         {
           "Name": "Content-Type",
@@ -2819,11 +2861,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yoR53S8pULgRQzejb4nNQoPJt1my68TvAKqgDhkpYsM=\""
+          "Value": "\"Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:12 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2841,7 +2883,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eg9p1avev5"
+          "Value": "2fwd074x1q"
         },
         {
           "Name": "label",
@@ -2849,18 +2891,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yoR53S8pULgRQzejb4nNQoPJt1my68TvAKqgDhkpYsM="
+          "Value": "sha256-Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0="
         }
       ]
     },
     {
       "Route": "images/symbols/Calendar.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-eg9p1avev5.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001078748652"
+          "Quality": "0.001077586207"
         }
       ],
       "ResponseHeaders": [
@@ -2870,15 +2912,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "926"
+          "Value": "927"
         },
         {
           "Name": "ETag",
-          "Value": "\"yoR53S8pULgRQzejb4nNQoPJt1my68TvAKqgDhkpYsM=\""
+          "Value": "\"Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:12 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2898,13 +2940,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk=\""
+          "Value": "W/\"XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk="
+          "Value": "sha256-XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM="
         }
       ]
     },
@@ -2919,7 +2961,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2369"
+          "Value": "2376"
         },
         {
           "Name": "Content-Type",
@@ -2927,11 +2969,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk=\""
+          "Value": "\"XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:12 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2941,13 +2983,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4oq8iY7RHe7PP0UdVKT0M6J15yW4Gdsj6ESCKIFIzrk="
+          "Value": "sha256-XuEPYMP7t8J+5/00wx+jONUEYsF3qeCEPcHjYTDNfpM="
         }
       ]
     },
     {
       "Route": "images/symbols/Calendar.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-eg9p1avev5.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2956,7 +2998,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "926"
+          "Value": "927"
         },
         {
           "Name": "Content-Type",
@@ -2964,11 +3006,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yoR53S8pULgRQzejb4nNQoPJt1my68TvAKqgDhkpYsM=\""
+          "Value": "\"Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:12 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2986,18 +3028,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yoR53S8pULgRQzejb4nNQoPJt1my68TvAKqgDhkpYsM="
+          "Value": "sha256-Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0="
         }
       ]
     },
     {
-      "Route": "images/symbols/Dollar.jm54jia678.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-jm54jia678.gz",
+      "Route": "images/symbols/Dollar.flsw1t00tn.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002583979328"
+          "Quality": "0.002577319588"
         }
       ],
       "ResponseHeaders": [
@@ -3007,15 +3049,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "386"
+          "Value": "387"
         },
         {
           "Name": "ETag",
-          "Value": "\"Mo1aT2qh0wEPCnEHDj1Xe4WjL45ip6Zw8EnG+z6RvHk=\""
+          "Value": "\"LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:04 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3035,13 +3077,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8=\""
+          "Value": "W/\"w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jm54jia678"
+          "Value": "flsw1t00tn"
         },
         {
           "Name": "label",
@@ -3049,12 +3091,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8="
+          "Value": "sha256-w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ="
         }
       ]
     },
     {
-      "Route": "images/symbols/Dollar.jm54jia678.svg",
+      "Route": "images/symbols/Dollar.flsw1t00tn.svg",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3064,7 +3106,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "823"
+          "Value": "828"
         },
         {
           "Name": "Content-Type",
@@ -3072,11 +3114,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8=\""
+          "Value": "\"w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:04 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3086,7 +3128,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jm54jia678"
+          "Value": "flsw1t00tn"
         },
         {
           "Name": "label",
@@ -3094,13 +3136,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8="
+          "Value": "sha256-w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ="
         }
       ]
     },
     {
-      "Route": "images/symbols/Dollar.jm54jia678.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-jm54jia678.gz",
+      "Route": "images/symbols/Dollar.flsw1t00tn.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3109,7 +3151,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "386"
+          "Value": "387"
         },
         {
           "Name": "Content-Type",
@@ -3117,11 +3159,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mo1aT2qh0wEPCnEHDj1Xe4WjL45ip6Zw8EnG+z6RvHk=\""
+          "Value": "\"LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:04 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3139,7 +3181,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jm54jia678"
+          "Value": "flsw1t00tn"
         },
         {
           "Name": "label",
@@ -3147,18 +3189,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Mo1aT2qh0wEPCnEHDj1Xe4WjL45ip6Zw8EnG+z6RvHk="
+          "Value": "sha256-LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4="
         }
       ]
     },
     {
       "Route": "images/symbols/Dollar.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-jm54jia678.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002583979328"
+          "Quality": "0.002577319588"
         }
       ],
       "ResponseHeaders": [
@@ -3168,15 +3210,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "386"
+          "Value": "387"
         },
         {
           "Name": "ETag",
-          "Value": "\"Mo1aT2qh0wEPCnEHDj1Xe4WjL45ip6Zw8EnG+z6RvHk=\""
+          "Value": "\"LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:04 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3196,13 +3238,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8=\""
+          "Value": "W/\"w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8="
+          "Value": "sha256-w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ="
         }
       ]
     },
@@ -3217,7 +3259,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "823"
+          "Value": "828"
         },
         {
           "Name": "Content-Type",
@@ -3225,11 +3267,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8=\""
+          "Value": "\"w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:04 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3239,13 +3281,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e5B84Qp6NNF+EWwVeqEVNoPeEaHLYpJ7Ju7gFSJxka8="
+          "Value": "sha256-w42eZUEeM25PdNHlXtsQV36jsm8PUCo9GGJTgP0t0LQ="
         }
       ]
     },
     {
       "Route": "images/symbols/Dollar.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-jm54jia678.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3254,7 +3296,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "386"
+          "Value": "387"
         },
         {
           "Name": "Content-Type",
@@ -3262,11 +3304,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Mo1aT2qh0wEPCnEHDj1Xe4WjL45ip6Zw8EnG+z6RvHk=\""
+          "Value": "\"LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:44:04 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3284,18 +3326,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Mo1aT2qh0wEPCnEHDj1Xe4WjL45ip6Zw8EnG+z6RvHk="
+          "Value": "sha256-LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4="
         }
       ]
     },
     {
-      "Route": "images/symbols/Search.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-z0980649rk.gz",
+      "Route": "images/symbols/Search.q2ndq6n8wg.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002036659878"
+          "Quality": "0.002028397566"
         }
       ],
       "ResponseHeaders": [
@@ -3305,19 +3347,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "490"
+          "Value": "492"
         },
         {
           "Name": "ETag",
-          "Value": "\"XcaEFeGGiTDQt02sQ5D5Rr65KxCZQYy1PcbWfRm/J4E=\""
+          "Value": "\"GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:44 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3333,18 +3375,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto=\""
+          "Value": "W/\"ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "q2ndq6n8wg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/symbols/Search.svg"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto="
+          "Value": "sha256-ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A="
         }
       ]
     },
     {
-      "Route": "images/symbols/Search.svg",
+      "Route": "images/symbols/Search.q2ndq6n8wg.svg",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3354,7 +3404,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1052"
+          "Value": "1057"
         },
         {
           "Name": "Content-Type",
@@ -3362,121 +3412,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto=\""
+          "Value": "\"ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto="
-        }
-      ]
-    },
-    {
-      "Route": "images/symbols/Search.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-z0980649rk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "490"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XcaEFeGGiTDQt02sQ5D5Rr65KxCZQYy1PcbWfRm/J4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XcaEFeGGiTDQt02sQ5D5Rr65KxCZQYy1PcbWfRm/J4E="
-        }
-      ]
-    },
-    {
-      "Route": "images/symbols/Search.z0980649rk.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-z0980649rk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002036659878"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "490"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XcaEFeGGiTDQt02sQ5D5Rr65KxCZQYy1PcbWfRm/J4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:44 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z0980649rk"
+          "Value": "q2ndq6n8wg"
         },
         {
           "Name": "label",
@@ -3484,13 +3434,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto="
+          "Value": "sha256-ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A="
         }
       ]
     },
     {
-      "Route": "images/symbols/Search.z0980649rk.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
+      "Route": "images/symbols/Search.q2ndq6n8wg.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3499,7 +3449,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1052"
+          "Value": "492"
         },
         {
           "Name": "Content-Type",
@@ -3507,56 +3457,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto=\""
+          "Value": "\"GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z0980649rk"
-        },
-        {
-          "Name": "label",
-          "Value": "images/symbols/Search.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TcgCTa+JaUOwEGagqAX9cLDUjg3FXnJnsKeUxqE1Bto="
-        }
-      ]
-    },
-    {
-      "Route": "images/symbols/Search.z0980649rk.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-z0980649rk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "490"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XcaEFeGGiTDQt02sQ5D5Rr65KxCZQYy1PcbWfRm/J4E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 18:43:44 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3574,7 +3479,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z0980649rk"
+          "Value": "q2ndq6n8wg"
         },
         {
           "Name": "label",
@@ -3582,7 +3487,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XcaEFeGGiTDQt02sQ5D5Rr65KxCZQYy1PcbWfRm/J4E="
+          "Value": "sha256-GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk="
+        }
+      ]
+    },
+    {
+      "Route": "images/symbols/Search.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002028397566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A="
+        }
+      ]
+    },
+    {
+      "Route": "images/symbols/Search.svg",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ElgQxcqYEMQvbxZlYBaWbb/Agi0kIFEfy20H08Xzf3A="
+        }
+      ]
+    },
+    {
+      "Route": "images/symbols/Search.svg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk="
         }
       ]
     },
@@ -3611,7 +3653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 10:28:24 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3664,7 +3706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 10:28:24 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3701,7 +3743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 10:28:24 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3748,7 +3790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 10:28:24 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3809,7 +3851,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 10:28:24 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3854,7 +3896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 10:28:24 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3909,7 +3951,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3970,7 +4012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4015,7 +4057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4070,7 +4112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4123,7 +4165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4160,7 +4202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4183,13 +4225,13 @@
       ]
     },
     {
-      "Route": "js/site.1z5dc9oal8.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-1z5dc9oal8.gz",
+      "Route": "js/site.e1pdd1nehp.js",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001203369434"
+          "Quality": "0.001199040767"
         }
       ],
       "ResponseHeaders": [
@@ -4199,15 +4241,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "830"
+          "Value": "833"
         },
         {
           "Name": "ETag",
-          "Value": "\"11KsCnsEwp5dv02F+YaN5iRYKTQE5p8fFa5Jcewbx0Q=\""
+          "Value": "\"C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4227,13 +4269,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14=\""
+          "Value": "W/\"AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1z5dc9oal8"
+          "Value": "e1pdd1nehp"
         },
         {
           "Name": "label",
@@ -4241,12 +4283,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14="
+          "Value": "sha256-AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w="
         }
       ]
     },
     {
-      "Route": "js/site.1z5dc9oal8.js",
+      "Route": "js/site.e1pdd1nehp.js",
       "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4256,7 +4298,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2945"
+          "Value": "2947"
         },
         {
           "Name": "Content-Type",
@@ -4264,11 +4306,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14=\""
+          "Value": "\"AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4278,7 +4320,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1z5dc9oal8"
+          "Value": "e1pdd1nehp"
         },
         {
           "Name": "label",
@@ -4286,13 +4328,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14="
+          "Value": "sha256-AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w="
         }
       ]
     },
     {
-      "Route": "js/site.1z5dc9oal8.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-1z5dc9oal8.gz",
+      "Route": "js/site.e1pdd1nehp.js.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4301,7 +4343,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "830"
+          "Value": "833"
         },
         {
           "Name": "Content-Type",
@@ -4309,11 +4351,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"11KsCnsEwp5dv02F+YaN5iRYKTQE5p8fFa5Jcewbx0Q=\""
+          "Value": "\"C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4331,7 +4373,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1z5dc9oal8"
+          "Value": "e1pdd1nehp"
         },
         {
           "Name": "label",
@@ -4339,18 +4381,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-11KsCnsEwp5dv02F+YaN5iRYKTQE5p8fFa5Jcewbx0Q="
+          "Value": "sha256-C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM="
         }
       ]
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-1z5dc9oal8.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001203369434"
+          "Quality": "0.001199040767"
         }
       ],
       "ResponseHeaders": [
@@ -4360,15 +4402,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "830"
+          "Value": "833"
         },
         {
           "Name": "ETag",
-          "Value": "\"11KsCnsEwp5dv02F+YaN5iRYKTQE5p8fFa5Jcewbx0Q=\""
+          "Value": "\"C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4388,13 +4430,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14=\""
+          "Value": "W/\"AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14="
+          "Value": "sha256-AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w="
         }
       ]
     },
@@ -4409,7 +4451,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2945"
+          "Value": "2947"
         },
         {
           "Name": "Content-Type",
@@ -4417,11 +4459,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14=\""
+          "Value": "\"AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4431,13 +4473,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fa8Zpy8P/sUxE8qziyho/lnD6s2bqOIllLdPsPRAt14="
+          "Value": "sha256-AoGYaZiCMzVim/okQ/vw7Vig33g+XIL4YyOfRps3J3w="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-1z5dc9oal8.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4446,7 +4488,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "830"
+          "Value": "833"
         },
         {
           "Name": "Content-Type",
@@ -4454,11 +4496,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"11KsCnsEwp5dv02F+YaN5iRYKTQE5p8fFa5Jcewbx0Q=\""
+          "Value": "\"C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:34:05 GMT"
+          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4476,7 +4518,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-11KsCnsEwp5dv02F+YaN5iRYKTQE5p8fFa5Jcewbx0Q="
+          "Value": "sha256-C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM="
         }
       ]
     },
@@ -4505,7 +4547,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 10:03:57 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4558,7 +4600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 10:03:57 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4595,7 +4637,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 10:03:57 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4642,7 +4684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 10:03:57 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4703,7 +4745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 10:03:57 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4748,7 +4790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 10:03:57 GMT"
+          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4775,6 +4817,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-eOlFRVP/bZA6mhlIPfE5WE+T2vk7bifZjEktgaCIxQw="
+        }
+      ]
+    },
+    {
+      "Route": "js/wysiwyg.js",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003597122302"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4="
+        }
+      ]
+    },
+    {
+      "Route": "js/wysiwyg.js",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4="
+        }
+      ]
+    },
+    {
+      "Route": "js/wysiwyg.js.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A="
+        }
+      ]
+    },
+    {
+      "Route": "js/wysiwyg.s0pxu39nep.js",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003597122302"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0pxu39nep"
+        },
+        {
+          "Name": "label",
+          "Value": "js/wysiwyg.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4="
+        }
+      ]
+    },
+    {
+      "Route": "js/wysiwyg.s0pxu39nep.js",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0pxu39nep"
+        },
+        {
+          "Name": "label",
+          "Value": "js/wysiwyg.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7BYKV+ZvlJcLNbfK5/CdClKaGQQYD1WyVn8znpDhOC4="
+        }
+      ]
+    },
+    {
+      "Route": "js/wysiwyg.s0pxu39nep.js.gz",
+      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0pxu39nep"
+        },
+        {
+          "Name": "label",
+          "Value": "js/wysiwyg.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A="
         }
       ]
     }

@@ -1,5 +1,6 @@
 ﻿
 
+using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 
 namespace Domain.Models;
@@ -8,9 +9,9 @@ public class AddProjectForm
 {
 
 
-    [DataType(DataType.ImageUrl)]
-    [Display(Name = "Image")]
-    public string? ImageUrl { get; set; }
+    [DataType(DataType.Upload)]
+    [Display(Name = "Image", Prompt = "Select Image")]
+    public IFormFile? ImageUrl { get; set; }
 
 
     [Display(Name = "Project Name", Prompt = "Project Name")]
@@ -18,8 +19,8 @@ public class AddProjectForm
     public string ProjectName { get; set; } = null!;
 
 
-
-    [DataType(DataType.MultilineText)]
+    //DESCRIPTION RICH TEXT
+    [DataType(DataType.Text)]
     [Display(Name = "Description", Prompt = "Type something")]
     public string? Description { get; set; } = null!;
 

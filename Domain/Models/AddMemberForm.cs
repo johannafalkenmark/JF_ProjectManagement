@@ -1,5 +1,6 @@
 ﻿
 
+using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 
 namespace Domain.Models;
@@ -7,9 +8,9 @@ namespace Domain.Models;
 public class AddMemberForm
 {
 
-    [DataType(DataType.ImageUrl)]
-    [Display(Name = "Image")]
-    public string? ImageUrl { get; set; }
+    [DataType(DataType.Upload)]
+    [Display(Name = "Image", Prompt = "Select Image")]
+    public IFormFile? ImageUrl { get; set; }
 
 
     [Required(ErrorMessage = "This field is required.")]

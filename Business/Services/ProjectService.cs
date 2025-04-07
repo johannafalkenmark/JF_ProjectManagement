@@ -22,7 +22,6 @@ public class ProjectService(IProjectRepository projectRepository, IStatusService
         if (form == null)
             return new ProjectResult { Succeeded = false, StatusCode = 400, Error = "Not all required fields are filled." };
         
-        //omvandla till project entity:
         var projectEntity = form.MapTo<ProjectEntity>();
         var statusResult = await _statusService.GetStatusByIdAsync(1);
         var status = statusResult.Result;
