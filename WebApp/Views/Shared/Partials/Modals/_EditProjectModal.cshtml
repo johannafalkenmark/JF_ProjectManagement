@@ -1,13 +1,13 @@
 ﻿@model AddProjectForm
-
-<div id="addProjectModal" class="modal">
+@* Likadan som addprojectform just nu
+ *@<div id="addProjectModal" class="modal">
     <div class="card">
         <div class="card-header">
             <h3>Add Project</h3>
             <button type="button" class="btn-close" data-type="close" data-target="#addProjectModal"></button>
         </div>
         <div class="card-body">
-            <form asp-controller="Admin" asp-action="AddProject" method="post" enctype="multipart/form-data" novalidate>
+            <form asp-controller="Projects" asp-action="Add" method="post" enctype="multipart/form-data" novalidate>
                 @if (!string.IsNullOrEmpty(ViewBag?.AddProjectErrorMessage))
                 {
                     <div class="alert-notification error">
@@ -80,7 +80,7 @@
                     <input asp-for="Budget" />
                 </div>
 
-                  <div class="form-group">
+                <div class="form-group">
                     <div class="field-label-group">
                         <label asp-for="StatusId"></label>
                         <span asp-validation-for="StatusId"></span>

@@ -36,7 +36,11 @@ public class AuthService(IMemberService memberService, SignInManager<UserEntity>
             return new AuthResult { Succeeded = false, StatusCode = 400, Error = "Not all required fields are filled." };
 
         var result = await _memberService.CreateMemberAsync(signUpForm);
-        return result.Succeeded
+        if (result.Succeeded)
+        {//BLIR INLOGGAD OM LYCKAS
+                    await _signInManager.PasswordSignInAsync(signUpForm.Email, signUpForm.Password, false, false);
+         }
+            return result.Succeeded
            ? new AuthResult { Succeeded = true, StatusCode = 201 }
            : new AuthResult { Succeeded = false, StatusCode = result.StatusCode, Error = result.Error };
 

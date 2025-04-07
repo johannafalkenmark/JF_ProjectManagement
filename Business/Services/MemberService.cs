@@ -36,11 +36,7 @@ public class MemberService(IUserRepository userRepository, IUserAddressRepositor
 
       );
         return new MemberResult<IEnumerable<Member>> { Succeeded = true, StatusCode = 201, Result = response.Result };
-        //Hade kunnat endast skicka tillbaka mapto här
-        //lägg till var address = _useradrep.get all...
-
-        //var result = await _userRepository.GetAllAsync();
-        //return result.MapTo<MemberResult>();
+       
     }
 
     public async Task<MemberResult> AddMemberToRole(string memberId, string roleName)
@@ -58,7 +54,6 @@ public class MemberService(IUserRepository userRepository, IUserAddressRepositor
              ? new MemberResult { Succeeded = true, StatusCode = 200 }
              : new MemberResult { Succeeded = false, StatusCode = 500, Error = "Unable to add user to role" };
 
-        //LÄGG in här att man automatiskt blir admin om ingen har den rollen
     }
 
 public async Task<MemberResult> CreateMemberAsync(UserSignUpForm signUpForm, string roleName = "User")
@@ -104,12 +99,56 @@ public async Task<MemberResult> CreateMemberAsync(UserSignUpForm signUpForm, str
         }
 
 
+    }
+
+
+    public async Task<MemberResult> CreateMemberManuallyAsync(AddMemberForm addMemberForm, string roleName = "User")
+    {
+        if (addMemberForm == null)
+            return new MemberResult { Succeeded = false, StatusCode = 400, Error = "Form data cant be null " };
+
+        var existsResult = await _userRepository.AlreadyExistsAsync(x => x.Email == addMemberForm.Email);
+        if (existsResult.Succeeded)
+            return new MemberResult { Succeeded = false, StatusCode = 409, Error = "User with same email already exists " };
+
+        try
+        {
+
+            var userEntity = addMemberForm.MapTo<UserEntity>();
+
+            userEntity.UserName = addMemberForm.Email;
+            userEntity.Email = userEntity.UserName;
+
+            var result = await _userManager.CreateAsync(userEntity);
+
+
+            if (result.Succeeded)
+            {
+                var addToRoleResult = await AddMemberToRole(userEntity.Id, roleName);
+
+                return result.Succeeded
+        ? new MemberResult { Succeeded = true, StatusCode = 201 }
+        : new MemberResult { Succeeded = false, StatusCode = 201, Error = "User created but not added to role" };
+
+            }
+
+            return new MemberResult { Succeeded = false, StatusCode = 500, Error = "Unable to create user" };
+
+
+        }
+
+        catch (Exception ex)
+        {
+            Debug.WriteLine(ex.Message);
+            return new MemberResult { Succeeded = false, StatusCode = 500, Error = ex.Message };
+
+        }
+
+
 
 
 
     }
-
-
 
 
 }

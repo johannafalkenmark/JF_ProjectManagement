@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lFfiLkYbopCnyP/KQEFtlyd1SysKPQiax8T7OHHAn7w=",
+  "Hash": "O6m/snvUqFRV18rUmTUAr33YIuY0Kxhd4+lCNbSavUs=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApp\\wwwroot",
       "Source": "WebApp",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\favicon.ico",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "lir1p715ud",
       "Integrity": "jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/avatars/Avatar2#[.{fingerprint=nwjymn6wl4}]?.svg.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "5y3zj56lcl",
       "Integrity": "QzrVQr81SjXfY2ZQKQrObkUN5Mh7BglCe5/97LToTjM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site#[.{fingerprint=e1pdd1nehp}]?.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "jew8y5lluv",
       "Integrity": "C3zUH+tXo88jusWbPbctVbXMFDdXE9geuZ5TiHSI9WM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/symbols/Dollar#[.{fingerprint=flsw1t00tn}]?.svg.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "3b2m5qrkun",
       "Integrity": "LzJyRcrg554hY62vwNP+xvy/4SVdcguBRPu3dwWyfQ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/project-standard-icon#[.{fingerprint=vchfjncfp1}]?.svg.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1l29vw74jd",
       "Integrity": "qxuRQRkiIRDMgRskuKvAT/sxmP0gJJGTIqOAmezXdnI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-standard-icon.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/wysiwyg#[.{fingerprint=s0pxu39nep}]?.js.gz",
       "AssetKind": "All",
@@ -133,41 +133,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\wysiwyg.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "278vl7lsi1",
       "Integrity": "wsMjkztKCxiXy6SgVNfjGKXdCnDG6kKrIGhcG/0hG0A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\wysiwyg.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-61b4f2lope.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-h4a3fv1yc2.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
-      "RelativePath": "js/modals#[.{fingerprint=61b4f2lope}]?.js.gz",
+      "RelativePath": "js/modals#[.{fingerprint=h4a3fv1yc2}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\modals.js",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\modals.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5dpit2k1qq",
-      "Integrity": "6VU3rEIdUw5ykLKTWtfUeUvphLHJFo30zEhs/mmHTzk=",
+      "Fingerprint": "yrb9w5dg4f",
+      "Integrity": "3scX5U7S0mM2zLvKgIOtvsnIWna2DU2AK9FoflK4yJo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\modals.js"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\modals.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/symbols/Search#[.{fingerprint=q2ndq6n8wg}]?.svg.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "b3r7htgxmc",
       "Integrity": "GfYUTrUKC1fxArPXg/HJaCXi1wGF5H9OfD2xdjp1Hqk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Search.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/site#[.{fingerprint=wnbgyun4lc}]?.css.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "e77dle0xlh",
       "Integrity": "Ri0oEXR/mZD6urxV6ZCj7oqrlJ/o7i4EsTmh9W1tBZM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/alpha-logotype-symbol#[.{fingerprint=6cbm70nql2}]?.svg.gz",
       "AssetKind": "All",
@@ -217,20 +217,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "yg2u7r6ssw",
       "Integrity": "/oTy2iJLXbuLTVZrDsRA058snX/bzyJGxpGVo1eYlsk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/validate#[.{fingerprint=sld3731iva}]?.js.gz",
       "AssetKind": "All",
@@ -238,20 +238,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\validate.js",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\validate.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "o84oin3qn3",
       "Integrity": "eOlFRVP/bZA6mhlIPfE5WE+T2vk7bifZjEktgaCIxQw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\validate.js"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\validate.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/avatars/Avatar1#[.{fingerprint=e7vskmhp1p}]?.svg.gz",
       "AssetKind": "All",
@@ -259,20 +259,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "lcybtylh8u",
       "Integrity": "pRd4qpwHALsGdwLl4e0vSUm27sF48lEvol0NDoH6U+s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/symbols/Calendar#[.{fingerprint=2fwd074x1q}]?.svg.gz",
       "AssetKind": "All",
@@ -280,20 +280,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "qijxx9ejua",
       "Integrity": "Egb9cNE4XZU/1+hNRNfvOz0euBj875epB2kzWfutbf0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/forms#[.{fingerprint=vh7x1k3idx}]?.js.gz",
       "AssetKind": "All",
@@ -301,20 +301,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\forms.js",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\forms.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "s5vrjlh4rs",
       "Integrity": "gLIhcu0lGBrhR3rbGty2dhoBX/4BrnFbrA+5Q/DxDNc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\forms.js"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\forms.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/project-edit-icon#[.{fingerprint=901hey0ssg}]?.svg.gz",
       "AssetKind": "All",
@@ -322,20 +322,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
+      "RelatedAsset": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "vm0sagnytq",
       "Integrity": "N2zCNhWvGawKZLas4lCkwpPI9pk2m2G6pBkuYXCczdk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg"
+      "OriginalItemSpec": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-edit-icon.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\css\\site.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\favicon.ico",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/alpha-logotype-symbol#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\images\\alpha-logotype-symbol.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/avatars/Avatar1#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\Avatar1.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/avatars/Avatar2#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\Avatar2.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/project-edit-icon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\images\\project-edit-icon.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/project-standard-icon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\project-standard-icon.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/symbols/Calendar#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\images\\symbols\\Calendar.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/symbols/Dollar#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\images\\symbols\\Dollar.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/symbols/Search#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\images\\symbols\\Search.svg"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\forms.js",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\forms.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/forms#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\js\\forms.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\modals.js",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\modals.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/modals#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -577,17 +577,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61b4f2lope",
-      "Integrity": "2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE=",
+      "Fingerprint": "h4a3fv1yc2",
+      "Integrity": "ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\modals.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\site.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\validate.js",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\validate.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validate.js"
     },
     {
-      "Identity": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "Identity": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\wysiwyg.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/wysiwyg#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -650,7 +650,7 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -673,7 +673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -705,7 +705,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -726,7 +726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -742,7 +742,7 @@
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -763,7 +763,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -787,7 +787,7 @@
     },
     {
       "Route": "css/site.wnbgyun4lc.css",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -810,7 +810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -850,7 +850,7 @@
     },
     {
       "Route": "css/site.wnbgyun4lc.css",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -871,7 +871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -895,7 +895,7 @@
     },
     {
       "Route": "css/site.wnbgyun4lc.css.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\fspdjdrw69-wnbgyun4lc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -916,7 +916,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:38 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -948,7 +948,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -971,7 +971,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1011,7 +1011,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1032,7 +1032,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1056,7 +1056,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1077,7 +1077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1109,7 +1109,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1132,7 +1132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1164,7 +1164,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1185,7 +1185,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1201,7 +1201,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\15ykilufbm-61n19gt1b8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1222,7 +1222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1246,7 +1246,7 @@
     },
     {
       "Route": "images/alpha-logotype-symbol.6cbm70nql2.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1269,7 +1269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1309,7 +1309,7 @@
     },
     {
       "Route": "images/alpha-logotype-symbol.6cbm70nql2.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1330,7 +1330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1354,7 +1354,7 @@
     },
     {
       "Route": "images/alpha-logotype-symbol.6cbm70nql2.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1375,7 +1375,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1407,7 +1407,7 @@
     },
     {
       "Route": "images/alpha-logotype-symbol.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1430,7 +1430,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1462,7 +1462,7 @@
     },
     {
       "Route": "images/alpha-logotype-symbol.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\alpha-logotype-symbol.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1483,7 +1483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1499,7 +1499,7 @@
     },
     {
       "Route": "images/alpha-logotype-symbol.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\g40q8zqi2e-6cbm70nql2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1520,7 +1520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 08:20:54 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1544,7 +1544,7 @@
     },
     {
       "Route": "images/avatars/Avatar1.e7vskmhp1p.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1567,7 +1567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1607,7 +1607,7 @@
     },
     {
       "Route": "images/avatars/Avatar1.e7vskmhp1p.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1628,7 +1628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1652,7 +1652,7 @@
     },
     {
       "Route": "images/avatars/Avatar1.e7vskmhp1p.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +1673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1705,7 +1705,7 @@
     },
     {
       "Route": "images/avatars/Avatar1.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1728,7 +1728,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1760,7 +1760,7 @@
     },
     {
       "Route": "images/avatars/Avatar1.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1781,7 +1781,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1797,7 +1797,7 @@
     },
     {
       "Route": "images/avatars/Avatar1.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\smg0xeyzou-e7vskmhp1p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1818,7 +1818,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1842,7 +1842,7 @@
     },
     {
       "Route": "images/avatars/Avatar2.nwjymn6wl4.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1865,7 +1865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1905,7 +1905,7 @@
     },
     {
       "Route": "images/avatars/Avatar2.nwjymn6wl4.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1926,7 +1926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1950,7 +1950,7 @@
     },
     {
       "Route": "images/avatars/Avatar2.nwjymn6wl4.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1971,7 +1971,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2003,7 +2003,7 @@
     },
     {
       "Route": "images/avatars/Avatar2.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2026,7 +2026,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2058,7 +2058,7 @@
     },
     {
       "Route": "images/avatars/Avatar2.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2079,7 +2079,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2095,7 +2095,7 @@
     },
     {
       "Route": "images/avatars/Avatar2.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\2xbcveiqdt-nwjymn6wl4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2116,7 +2116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2140,7 +2140,7 @@
     },
     {
       "Route": "images/project-edit-icon.901hey0ssg.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2163,7 +2163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2203,7 +2203,7 @@
     },
     {
       "Route": "images/project-edit-icon.901hey0ssg.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2224,7 +2224,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2248,7 +2248,7 @@
     },
     {
       "Route": "images/project-edit-icon.901hey0ssg.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2269,7 +2269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2301,7 +2301,7 @@
     },
     {
       "Route": "images/project-edit-icon.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2324,7 +2324,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2356,7 +2356,7 @@
     },
     {
       "Route": "images/project-edit-icon.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-edit-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2377,7 +2377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2393,7 +2393,7 @@
     },
     {
       "Route": "images/project-edit-icon.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\z1xyljzy6d-901hey0ssg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2414,7 +2414,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2438,7 +2438,7 @@
     },
     {
       "Route": "images/project-standard-icon.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2461,7 +2461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2493,7 +2493,7 @@
     },
     {
       "Route": "images/project-standard-icon.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2514,7 +2514,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2530,7 +2530,7 @@
     },
     {
       "Route": "images/project-standard-icon.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2551,7 +2551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2575,7 +2575,7 @@
     },
     {
       "Route": "images/project-standard-icon.vchfjncfp1.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2598,7 +2598,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2638,7 +2638,7 @@
     },
     {
       "Route": "images/project-standard-icon.vchfjncfp1.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-standard-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2659,7 +2659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2683,7 +2683,7 @@
     },
     {
       "Route": "images/project-standard-icon.vchfjncfp1.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\8ft3x00uma-vchfjncfp1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2704,7 +2704,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2736,7 +2736,7 @@
     },
     {
       "Route": "images/symbols/Calendar.2fwd074x1q.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2759,7 +2759,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2799,7 +2799,7 @@
     },
     {
       "Route": "images/symbols/Calendar.2fwd074x1q.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2820,7 +2820,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2844,7 +2844,7 @@
     },
     {
       "Route": "images/symbols/Calendar.2fwd074x1q.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2865,7 +2865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2897,7 +2897,7 @@
     },
     {
       "Route": "images/symbols/Calendar.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2920,7 +2920,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2952,7 +2952,7 @@
     },
     {
       "Route": "images/symbols/Calendar.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Calendar.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2973,7 +2973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2989,7 +2989,7 @@
     },
     {
       "Route": "images/symbols/Calendar.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\ww54iyjra8-2fwd074x1q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3010,7 +3010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3034,7 +3034,7 @@
     },
     {
       "Route": "images/symbols/Dollar.flsw1t00tn.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3057,7 +3057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3097,7 +3097,7 @@
     },
     {
       "Route": "images/symbols/Dollar.flsw1t00tn.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3118,7 +3118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3142,7 +3142,7 @@
     },
     {
       "Route": "images/symbols/Dollar.flsw1t00tn.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3163,7 +3163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3195,7 +3195,7 @@
     },
     {
       "Route": "images/symbols/Dollar.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3218,7 +3218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3250,7 +3250,7 @@
     },
     {
       "Route": "images/symbols/Dollar.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Dollar.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3271,7 +3271,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3287,7 +3287,7 @@
     },
     {
       "Route": "images/symbols/Dollar.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\70iqf6e3la-flsw1t00tn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3308,7 +3308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3332,7 +3332,7 @@
     },
     {
       "Route": "images/symbols/Search.q2ndq6n8wg.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3355,7 +3355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3395,7 +3395,7 @@
     },
     {
       "Route": "images/symbols/Search.q2ndq6n8wg.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3416,7 +3416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3440,7 +3440,7 @@
     },
     {
       "Route": "images/symbols/Search.q2ndq6n8wg.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3461,7 +3461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3493,7 +3493,7 @@
     },
     {
       "Route": "images/symbols/Search.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3516,7 +3516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3548,7 +3548,7 @@
     },
     {
       "Route": "images/symbols/Search.svg",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\symbols\\Search.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3569,7 +3569,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3585,7 +3585,7 @@
     },
     {
       "Route": "images/symbols/Search.svg.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\exyqat9j8u-q2ndq6n8wg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3606,7 +3606,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3630,7 +3630,7 @@
     },
     {
       "Route": "js/forms.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3653,7 +3653,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3685,7 +3685,7 @@
     },
     {
       "Route": "js/forms.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\forms.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\forms.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3706,7 +3706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3722,7 +3722,7 @@
     },
     {
       "Route": "js/forms.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3743,7 +3743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3767,7 +3767,7 @@
     },
     {
       "Route": "js/forms.vh7x1k3idx.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3790,7 +3790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3830,7 +3830,7 @@
     },
     {
       "Route": "js/forms.vh7x1k3idx.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\forms.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\forms.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3851,7 +3851,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3875,7 +3875,7 @@
     },
     {
       "Route": "js/forms.vh7x1k3idx.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\wzf6ou8coa-vh7x1k3idx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3896,7 +3896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3927,13 +3927,13 @@
       ]
     },
     {
-      "Route": "js/modals.61b4f2lope.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-61b4f2lope.gz",
+      "Route": "js/modals.h4a3fv1yc2.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-h4a3fv1yc2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002298850575"
+          "Quality": "0.002288329519"
         }
       ],
       "ResponseHeaders": [
@@ -3943,15 +3943,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "434"
+          "Value": "436"
         },
         {
           "Name": "ETag",
-          "Value": "\"6VU3rEIdUw5ykLKTWtfUeUvphLHJFo30zEhs/mmHTzk=\""
+          "Value": "\"3scX5U7S0mM2zLvKgIOtvsnIWna2DU2AK9FoflK4yJo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 11:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3971,13 +3971,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE=\""
+          "Value": "W/\"ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61b4f2lope"
+          "Value": "h4a3fv1yc2"
         },
         {
           "Name": "label",
@@ -3985,13 +3985,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE="
+          "Value": "sha256-ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok="
         }
       ]
     },
     {
-      "Route": "js/modals.61b4f2lope.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\modals.js",
+      "Route": "js/modals.h4a3fv1yc2.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\modals.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4000,7 +4000,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "924"
         },
         {
           "Name": "Content-Type",
@@ -4008,11 +4008,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE=\""
+          "Value": "\"ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 11:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4022,7 +4022,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61b4f2lope"
+          "Value": "h4a3fv1yc2"
         },
         {
           "Name": "label",
@@ -4030,13 +4030,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE="
+          "Value": "sha256-ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok="
         }
       ]
     },
     {
-      "Route": "js/modals.61b4f2lope.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-61b4f2lope.gz",
+      "Route": "js/modals.h4a3fv1yc2.js.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-h4a3fv1yc2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4045,7 +4045,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "434"
+          "Value": "436"
         },
         {
           "Name": "Content-Type",
@@ -4053,11 +4053,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6VU3rEIdUw5ykLKTWtfUeUvphLHJFo30zEhs/mmHTzk=\""
+          "Value": "\"3scX5U7S0mM2zLvKgIOtvsnIWna2DU2AK9FoflK4yJo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 11:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4075,7 +4075,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61b4f2lope"
+          "Value": "h4a3fv1yc2"
         },
         {
           "Name": "label",
@@ -4083,18 +4083,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6VU3rEIdUw5ykLKTWtfUeUvphLHJFo30zEhs/mmHTzk="
+          "Value": "sha256-3scX5U7S0mM2zLvKgIOtvsnIWna2DU2AK9FoflK4yJo="
         }
       ]
     },
     {
       "Route": "js/modals.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-61b4f2lope.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-h4a3fv1yc2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002298850575"
+          "Quality": "0.002288329519"
         }
       ],
       "ResponseHeaders": [
@@ -4104,15 +4104,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "434"
+          "Value": "436"
         },
         {
           "Name": "ETag",
-          "Value": "\"6VU3rEIdUw5ykLKTWtfUeUvphLHJFo30zEhs/mmHTzk=\""
+          "Value": "\"3scX5U7S0mM2zLvKgIOtvsnIWna2DU2AK9FoflK4yJo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 11:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4132,19 +4132,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE=\""
+          "Value": "W/\"ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE="
+          "Value": "sha256-ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok="
         }
       ]
     },
     {
       "Route": "js/modals.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\modals.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\modals.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4153,7 +4153,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "922"
+          "Value": "924"
         },
         {
           "Name": "Content-Type",
@@ -4161,11 +4161,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE=\""
+          "Value": "\"ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 11:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4175,13 +4175,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE="
+          "Value": "sha256-ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok="
         }
       ]
     },
     {
       "Route": "js/modals.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-61b4f2lope.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\bdtaxi25ky-h4a3fv1yc2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4190,7 +4190,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "434"
+          "Value": "436"
         },
         {
           "Name": "Content-Type",
@@ -4198,11 +4198,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6VU3rEIdUw5ykLKTWtfUeUvphLHJFo30zEhs/mmHTzk=\""
+          "Value": "\"3scX5U7S0mM2zLvKgIOtvsnIWna2DU2AK9FoflK4yJo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 11:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4220,13 +4220,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6VU3rEIdUw5ykLKTWtfUeUvphLHJFo30zEhs/mmHTzk="
+          "Value": "sha256-3scX5U7S0mM2zLvKgIOtvsnIWna2DU2AK9FoflK4yJo="
         }
       ]
     },
     {
       "Route": "js/site.e1pdd1nehp.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4249,7 +4249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4289,7 +4289,7 @@
     },
     {
       "Route": "js/site.e1pdd1nehp.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4310,7 +4310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4334,7 +4334,7 @@
     },
     {
       "Route": "js/site.e1pdd1nehp.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4355,7 +4355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4387,7 +4387,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4410,7 +4410,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4442,7 +4442,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4463,7 +4463,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4479,7 +4479,7 @@
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\5wk3qh7byk-e1pdd1nehp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4500,7 +4500,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 12:27:56 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4524,7 +4524,7 @@
     },
     {
       "Route": "js/validate.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4547,7 +4547,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4579,7 +4579,7 @@
     },
     {
       "Route": "js/validate.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\validate.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4600,7 +4600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4616,7 +4616,7 @@
     },
     {
       "Route": "js/validate.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4637,7 +4637,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4661,7 +4661,7 @@
     },
     {
       "Route": "js/validate.sld3731iva.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4684,7 +4684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4724,7 +4724,7 @@
     },
     {
       "Route": "js/validate.sld3731iva.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\validate.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4745,7 +4745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4769,7 +4769,7 @@
     },
     {
       "Route": "js/validate.sld3731iva.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\nzymtqkpc3-sld3731iva.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4790,7 +4790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 21:07:14 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4822,7 +4822,7 @@
     },
     {
       "Route": "js/wysiwyg.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4845,7 +4845,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4877,7 +4877,7 @@
     },
     {
       "Route": "js/wysiwyg.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\wysiwyg.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4898,7 +4898,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4914,7 +4914,7 @@
     },
     {
       "Route": "js/wysiwyg.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4935,7 +4935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4959,7 +4959,7 @@
     },
     {
       "Route": "js/wysiwyg.s0pxu39nep.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4982,7 +4982,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5022,7 +5022,7 @@
     },
     {
       "Route": "js/wysiwyg.s0pxu39nep.js",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\wwwroot\\js\\wysiwyg.js",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\js\\wysiwyg.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5043,7 +5043,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5067,7 +5067,7 @@
     },
     {
       "Route": "js/wysiwyg.s0pxu39nep.js.gz",
-      "AssetFile": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
+      "AssetFile": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\Debug\\net9.0\\compressed\\9iptv7quwy-s0pxu39nep.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5088,7 +5088,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 08:49:01 GMT"
+          "Value": "Mon, 07 Apr 2025 08:03:00 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\WebApp.csproj": {}
+    "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Business.csproj": {
+    "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Business.csproj",
+        "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Johanna Falkenmark\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\obj\\",
+        "outputPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj": {
-                "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj"
+              "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj": {
+                "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj"
               },
-              "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj"
+              "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj": {
+    "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj",
+        "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Johanna Falkenmark\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\obj\\",
+        "outputPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,8 +112,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj"
+              "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj"
               }
             }
           }
@@ -175,14 +175,14 @@
         }
       }
     },
-    "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj": {
+    "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj",
+        "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Johanna Falkenmark\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\obj\\",
+        "outputPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,14 +247,14 @@
         }
       }
     },
-    "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\WebApp.csproj": {
+    "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\Johanna Falkenmark\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\WebApp\\obj\\",
+        "outputPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -276,14 +276,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Business.csproj": {
-                "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Business\\Business.csproj"
+              "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Business.csproj": {
+                "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Business.csproj"
               },
-              "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj": {
-                "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj"
+              "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj": {
+                "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj"
               },
-              "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj"
+              "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DlzPF9Gj0V4=",
+  "dgSpecHash": "QMIlXGScnmI=",
   "success": true,
-  "projectFilePath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj",
+  "projectFilePath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Johanna Falkenmark\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Johanna Falkenmark\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

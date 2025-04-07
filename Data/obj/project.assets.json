@@ -4946,11 +4946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\Data.csproj",
+      "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Johanna Falkenmark\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Data\\obj\\",
+      "outputPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4972,8 +4972,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\ProjectsSchool\\21MARS\\MemberManagement\\Domain\\Domain.csproj"
+            "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Domain.csproj"
             }
           }
         }

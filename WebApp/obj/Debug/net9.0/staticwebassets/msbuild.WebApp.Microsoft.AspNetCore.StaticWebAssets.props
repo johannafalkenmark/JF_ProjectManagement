@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>61b4f2lope</Fingerprint>
-      <Integrity>2hec1E5GekRz/vwPqsUoBMzZLBnDKA+0+kcCsd8NEHE=</Integrity>
+      <Fingerprint>h4a3fv1yc2</Fingerprint>
+      <Integrity>ATHUhYm8fBMAX5bWQ78yyYx9A60OCdWn6jhh2CPXCok=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\modals.js'))</OriginalItemSpec>

@@ -58,7 +58,7 @@ public class AdminController(IMemberService memberService, IProjectService proje
         var viewmodel = new ProjectsViewModel()
         {
             Projects = projectResult.Result!,
-            Members = memberResult.Result,
+            Members = memberResult.Result!,
             Clients = clientResult.Result!  
 
 
@@ -90,6 +90,8 @@ public class AdminController(IMemberService memberService, IProjectService proje
 
     }
 
+    [Authorize(Roles = "Admin")] 
+    //[HttpPost]
     public async Task<IActionResult> Members()
     {
         var memberResult = await _memberService.GetMembersAsync();
@@ -102,6 +104,21 @@ public class AdminController(IMemberService memberService, IProjectService proje
 
 
         return View(viewModel);
+    }
+
+    public async Task<IActionResult> AddMember(MembersViewModel model)
+    {
+        var addMemberForm = model.MapTo<AddMemberForm>();
+        var result = await _memberService.CreateMemberManuallyAsync(addMemberForm);
+        if (result.Succeeded)
+        {
+         Console.WriteLine("Member created successfully");
+            return View();
+        }
+
+        else
+            Console.WriteLine("Something went wrong. Try again later.");  
+        return View(model);
     }
 
     public async Task<IActionResult> Clients()

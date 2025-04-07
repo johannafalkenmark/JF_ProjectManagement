@@ -21,6 +21,7 @@
                     {
                         <img src="~/images/@member.ImageUrl" alt="" />
                     }
+              
                     else
                     {
                         <img src="~/images/avatars/Avatar1.svg" alt="" />
@@ -37,9 +38,13 @@
             </div>
         }
     </div>
+    @if (User.IsInRole("Admin"))
+    {
+        <partial name="Partials/Modals/_AddMemberModal" model="Model.AddMemberForm" />
+
+    }
 </section>
 
-<partial name="Partials/Modals/_AddMemberModal" model="Model.AddMemberForm"/>
 
 
                     <script src="~/js/modals.js"></script>

@@ -19,6 +19,7 @@ function initModals() {
             const targetElement = document.querySelector(target)
             console.log('d')
             targetElement.classList.add('show')
+
         })
     })
 }
