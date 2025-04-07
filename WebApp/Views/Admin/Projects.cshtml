@@ -5,11 +5,21 @@
 }
 
 
+<partial name="Partials/Modals/_AddProjectModal" model="Model.AddProjectForm" />
+
+@* //Förberett edit:
+ *@
+ 
+ <partial name="Partials/Modals/_EditProjectModal" model="Model.AddProjectForm" />
+
 
 <section id="projects">
     <div class="page-header">
         <h1>@ViewData["Title"]</h1>
         <button type="button" data-type="modal" data-target="#addProjectModal" class="btn btn-add">Add Project</button>
+     
+@*         Förberett edit knapp
+ *@        <button type="button" data-type="modal" data-target="#editProjectModal" class="btn btn-edit">Save Project</button>
     </div>
 
 
@@ -45,7 +55,6 @@
     </div>
 </section>
 
-<partial name="Partials/Modals/_AddProjectModal" model="Model.AddProjectForm" />
 
 <script src="~/js/site.js"></script>
 <script src="~/js/modals.js"></script>

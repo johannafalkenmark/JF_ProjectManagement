@@ -10,3 +10,4 @@ C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.dll
 C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.pdb
 C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\ProjectsSchool\21MARS\MemberManagement\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache

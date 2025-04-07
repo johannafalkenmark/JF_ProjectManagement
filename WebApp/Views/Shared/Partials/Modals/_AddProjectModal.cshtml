@@ -23,11 +23,37 @@
                 </div>
 
                 <div class="form-group">
-                    <div class="field-label-group">
-                        <label asp-for="Description"></label>
-                        <span asp-validation-for="Description"></span>
+                    <label asp-for="Description"></label>
+                    <div class="wysiwyg-container">
+                        <textarea id="add-project-description" asp-for="Description"></textarea>
+                        <div id="add-project-description-editor" class="wysiwyg-editor"></div>
+                        <div id="add-project-description-toolbar" class="wysiwyg-toolbar">
+                            <span class="ql-formats">
+                                <button class="ql-bold"></button>
+                                <button class="ql-italic"></button>
+                                <button class="ql-underline"></button>
+                            </span>
+
+                            <span class="ql-formats">
+                                <button class="ql-align" value=""></button>
+                                <button class="ql-align" value="center"></button>
+                                <button class="ql-align" value="right"></button>
+                            </span>
+
+                            <span class="ql-formats">
+                                <button class="ql-list" value="bullet"></button>
+                                <button class="ql-list" value="ordered"></button>
+                            </span>
+
+                            <span class="ql-formats">
+                                <button class="ql-link"></button>
+                            </span>
+
+
+                        </div>
+
+
                     </div>
-                    <textarea asp-for="Description"></textarea>
                 </div>
 
                 <div class="form-group">
@@ -88,5 +114,8 @@
         <div class="card-footer"></div>
     </div>
 </div>
+<script>
+    initWysiwygEditor('#add-project-description-editor', '#add-project-description-toolbar','#add-project-description', '@Html.Raw(Model?.Description ?? "")')
+</script>
 <script src="~/js/site.js"></script>
 <script src="~/js/forms.js"></script>

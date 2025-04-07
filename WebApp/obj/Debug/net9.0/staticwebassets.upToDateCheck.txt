@@ -3,6 +3,7 @@ C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\images\avatars\Avatar2.
 C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\js\site.js
 C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\images\symbols\Dollar.svg
 C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\images\project-standard-icon.svg
+C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\js\wysiwyg.js
 C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\js\modals.js
 C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\images\symbols\Search.svg
 C:\ProjectsSchool\21MARS\MemberManagement\WebApp\wwwroot\css\site.css
@@ -26,3 +27,4 @@ wwwroot\js\forms.js
 wwwroot\js\modals.js
 wwwroot\js\site.js
 wwwroot\js\validate.js
+wwwroot\js\wysiwyg.js
