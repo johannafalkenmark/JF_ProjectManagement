@@ -13,12 +13,40 @@
       "PackagePath": "staticwebassets\\images\\alpha-logotype-symbol.svg"
     },
     {
+      "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Adminavatar.svg",
+      "PackagePath": "staticwebassets\\images\\avatars\\Adminavatar.svg"
+    },
+    {
       "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar1.svg",
       "PackagePath": "staticwebassets\\images\\avatars\\Avatar1.svg"
     },
     {
+      "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar11.svg",
+      "PackagePath": "staticwebassets\\images\\avatars\\Avatar11.svg"
+    },
+    {
       "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar2.svg",
       "PackagePath": "staticwebassets\\images\\avatars\\Avatar2.svg"
+    },
+    {
+      "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar3.svg",
+      "PackagePath": "staticwebassets\\images\\avatars\\Avatar3.svg"
+    },
+    {
+      "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar4.svg",
+      "PackagePath": "staticwebassets\\images\\avatars\\Avatar4.svg"
+    },
+    {
+      "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar5.svg",
+      "PackagePath": "staticwebassets\\images\\avatars\\Avatar5.svg"
+    },
+    {
+      "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\avatars\\Avatar6.svg",
+      "PackagePath": "staticwebassets\\images\\avatars\\Avatar6.svg"
+    },
+    {
+      "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\customer.svg",
+      "PackagePath": "staticwebassets\\images\\customer.svg"
     },
     {
       "Id": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\images\\project-edit-icon.svg",

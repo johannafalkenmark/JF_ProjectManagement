@@ -17,7 +17,11 @@
         @foreach (var client in Model.Clients)
         {
             <div class="card client">
-             
+                <div class="image">
+
+                    <img src="~/images/customer.svg" alt="" />
+
+                </div>
                 <h4 class="name">@client.ClientName</h4>
                 <div class="email">@client.Email</div>
 

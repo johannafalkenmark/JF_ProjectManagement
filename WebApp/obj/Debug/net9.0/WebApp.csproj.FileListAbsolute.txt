@@ -428,3 +428,10 @@ C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.WebPag
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.WebPages.dll
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\Microsoft.Web.Infrastructure.dll
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\fspdjdrw69-6148n2ikfd.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\gkop96a84d-y6yllkm0cv.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\d3h65q0x7m-bs3gkjqva1.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\9sjvo723jl-494ki1x6sw.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\5nlhjmj9sy-o0pflwvi9m.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\6njqhnzril-ig7f5ekv7d.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\3n4c5f87vl-jblly6uyw9.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\ws1bfzqupf-1175nh8rdp.gz

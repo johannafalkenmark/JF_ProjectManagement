@@ -8,12 +8,28 @@
 <div class="profile-menu-container">
     <i class="fa-duotone fa-solid fa-bell"></i>
     <i class="fa-duotone fa-solid fa-gear"></i>
-    <img id="profileAvatar" class="profile-avatar" src="~/images/avatars/avatar2.svg" />
-</div>
+    @if (User.IsInRole("Admin"))
+        {
+            <img id="profileAvatar" class="profile-avatar" src="~/images/avatars/Adminavatar.svg" />
+        }
+
+        else
+        {
+            <img id="profileAvatar" class="profile-avatar" src="~/images/avatars/avatar2.svg" />
+        }
+    </div>
 
 <div id="profileDropdown" class="profile-dropdown">
     <div class="profile-info">
-        <img class="profile-avatar-mini" src="~/images/avatars/avatar2.svg" />
+        @if (User.IsInRole("Admin"))
+        {
+            <img class="profile-avatar-mini" src="~/images/avatars/Adminavatar.svg" />
+        }
+
+        else
+        {
+            <img class="profile-avatar-mini" src="~/images/avatars/avatar2.svg" />
+        }
         <span class="profile-name">@displayName</span>
     </div>
 
