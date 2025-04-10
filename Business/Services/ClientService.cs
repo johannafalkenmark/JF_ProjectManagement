@@ -11,6 +11,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Mvc;
 
 namespace Business.Services;
 
@@ -24,39 +25,28 @@ public class ClientService(IClientRepository clientRepository) : IClientService
         return result.MapTo<ClientResult>();
     }
 
-    ////CREATE
-    //public async Task<bool> CreateClientAsync(AddClientForm form)
-
-    //{
-    //    try
-    //    {
-
-    //        var clientEntity = ClientFactory.Create(form);
-    //        if (clientEntity == null)
-    //            return false;
-
-    //        bool result = await _clientRepository.CreateAsync(clientEntity);
-    //        return result;
-    //    }
-    //    catch (Exception ex)
-    //    {
-    //        Debug.WriteLine(ex.Message);
-    //        return false;
-    //    }
-    //}
-
-    //public async Task<IEnumerable<Client>> GetClientsAsync()
-    //{
 
 
-    //    var entities = await _clientRepository.GetAllAsync();
+    //Behöver ev denna för visa lista med clients i addproject
+    public async Task<ClientResult> GetClientsSelectListAsync()
+    {
+        var result = await _clientRepository.GetAllAsync();
+        var clientList = result.Result!.Select(c => new Client
+        {
+            Id = c.Id,
+            ClientName = c.ClientName,
+            Email = c.Email,
+            BillingReference = c.BillingReference,
+            BillingAddress = c.BillingAddress
+        }).ToList();
 
-    //    var clients = entities.Select(ClientFactory.Create);
-
-    //    return clients;
-    //}
-
-    ////Fortsätt CRUD
-
+        return new ClientResult
+        {
+            Result = clientList,
+            Succeeded = result.Succeeded,
+            StatusCode = result.StatusCode,
+            Error = result.Error
+        };
+    }
 
 }

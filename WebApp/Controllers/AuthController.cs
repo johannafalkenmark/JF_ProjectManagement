@@ -41,7 +41,7 @@ public class AuthController (IAuthService authService) : Controller
         if (result.Succeeded)
         {
           
-            return LocalRedirect("~/");
+            return LocalRedirect(returnUrl);
         }
         else
         {
@@ -87,8 +87,8 @@ public class AuthController (IAuthService authService) : Controller
 
             if (result.Succeeded)
             {
-                return LocalRedirect(returnUrl);
-            }
+            return LocalRedirect("~/");
+        }
             else
             {
                 ViewBag.ErrorMessage = "Something went wrong. Try again later.";

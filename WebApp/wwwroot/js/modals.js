@@ -2,9 +2,7 @@
     //När sidan är laddad ska du hantera de här delarna
     //detta kan ses som vårt program där vi vill köra saker
     initModals()
-
-    //initOpenModals()
-    initCloseButtons()
+    closeModal()
 })
 
 

@@ -1,9 +1,32 @@
-﻿@{
+﻿@model MembersViewModel
+
+@{
+    var memberId = User.FindFirstValue(ClaimTypes.NameIdentifier) ?? "";
+    var displayName = await memberService.GetDisplayNameAsync(memberId);
+
+    var memberResult = await memberService.GetMemberByIdAsync(memberId);
+    var member = memberResult.Result;
+}
+@{
     ViewData["Title"] = "Project Portal";
 }
 
 <div class="Page-header">
-    <h1>@ViewData["Title"]</h1>
-    <h2> Welcome to Project management</h2>
-
+        <h1>@displayName Welcome to @ViewData["Title"], </h1>
+    
 </div>
+@if (User.IsInRole("Admin"))
+{
+    <div class="greeting"> 
+  
+   <h2> You are now logged in as an administrator and have complete access to the system.</h2>
+    </div>
+}
+@if (User.IsInRole("User"))
+{
+    <div class="greeting"> 
+        <h2>You are now logged in as a user.</h2>
+        <div class="eastereggforhans"><h3> Message for Hans - admin login is admin@mail.com Password: Admin123!</h3></div>
+    </div>
+}
+<script src="~/js/site.js"></script>

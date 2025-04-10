@@ -55,6 +55,8 @@ app.UseHsts();
 app.UseHttpsRedirection();
 app.UseRouting();
 
+app.UseRewriter(new RewriteOptions().AddRedirect("^$", "/admin/index"));
+
 app.UseAuthentication();
 app.UseAuthorization();
 
@@ -90,7 +92,8 @@ using (var scope = app.Services.CreateScope())
 
 app.MapStaticAssets();
 
-//ENKLARE SÄTT ÄN MIDDLEWARE, ev ta bort: app.UseRewriter(new RewriteOptions().AddRedirect("^$", "/admin/overview"));
+//ENKLARE SÄTT ÄN MIDDLEWARE, ev ta bort:
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Admin}/{action=Index}/{id?}")

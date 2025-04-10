@@ -2,9 +2,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     initDarkMode()
     initMobileMenu()
-    //initProfileOptionsDropDown()
+    initProfileOptionsDropDown()
     initToggles()
     initCloseButtons()
+  
 })
 
 function initMobileMenu() {
@@ -90,3 +91,5 @@ function initToggles() {
         }
     })
 }
+
+

@@ -67,18 +67,24 @@ public class AdminController(IMemberService memberService, IProjectService proje
     }
 
 
-    //Behöver jag en egen ADDprojectviewmodel?
     [HttpPost]
+
     public async Task<IActionResult> AddProject(ProjectsViewModel model)
     {
         var addProjectForm = model.MapTo<AddProjectForm>();
+
         var result = await _projectService.CreateProjectAsync(addProjectForm);
+      
         return View();
     }
 
     [HttpPost]
-    public async Task<IActionResult> EditProject()
+    public async Task<IActionResult> EditProject(string id)
     {
+        var project = await _projectService.GetProjectAsync(id);
+
+        var editProjectForm = project.Result!.MapTo<EditProjectForm>();
+        var result = await _projectService.UpdateProjectAsync(editProjectForm);
         return View();
 
     }
@@ -91,7 +97,7 @@ public class AdminController(IMemberService memberService, IProjectService proje
     }
 
     [Authorize(Roles = "Admin")] 
-    //[HttpPost]
+  
     public async Task<IActionResult> Members()
     {
         var memberResult = await _memberService.GetMembersAsync();

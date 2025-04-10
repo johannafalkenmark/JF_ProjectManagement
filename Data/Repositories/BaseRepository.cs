@@ -98,10 +98,6 @@ public abstract class BaseRepository<TEntity, TModel> (DataContext context) : IB
 
 
 
-
-
-
-
     public virtual async Task<RepositoryResult<TModel>> GetAsync(Expression<Func<TEntity, bool>> where, params Expression<Func<TEntity, object>>[] includes)
     {
 
@@ -129,19 +125,6 @@ public abstract class BaseRepository<TEntity, TModel> (DataContext context) : IB
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-    //Kontrollerar om finns eller inte
     public virtual async Task<RepositoryResult<bool>> AlreadyExistsAsync(Expression<Func<TEntity, bool>> findBy)
     {
         var exists = await _dbSet.AnyAsync(findBy);

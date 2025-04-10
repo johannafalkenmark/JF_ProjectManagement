@@ -1,5 +1,10 @@
-﻿@* koppla ihop till user/member här
- *@
+﻿@{
+    var memberId = User.FindFirstValue(ClaimTypes.NameIdentifier) ?? "";
+    var displayName = await memberService.GetDisplayNameAsync(memberId);
+
+    var memberResult = await memberService.GetMemberByIdAsync(memberId);
+    var member = memberResult.Result;
+}
 <div class="profile-menu-container">
     <i class="fa-duotone fa-solid fa-bell"></i>
     <i class="fa-duotone fa-solid fa-gear"></i>
@@ -9,7 +14,7 @@
 <div id="profileDropdown" class="profile-dropdown">
     <div class="profile-info">
         <img class="profile-avatar-mini" src="~/images/avatars/avatar2.svg" />
-        <span class="profile-name">Johanna Falkenmark</span>
+        <span class="profile-name">@displayName</span>
     </div>
 
     <div class="profile-action">

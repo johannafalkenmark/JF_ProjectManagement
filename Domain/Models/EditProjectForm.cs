@@ -1,13 +1,16 @@
-﻿
-
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
+using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Domain.Models;
 
-public class AddProjectForm
+public class EditProjectForm
 {
-
+    public string Id { get; set; } = null!;
 
     [DataType(DataType.Upload)]
     [Display(Name = "Image", Prompt = "Select Image")]
@@ -40,15 +43,19 @@ public class AddProjectForm
     public decimal? Budget { get; set; }
 
 
+
+
+
+
     public virtual Client? Client { get; set; }
 
     public string ClientId { get; set; } = null!;
 
-    
+
     public IEnumerable<Client> Clients { get; set; } = [];
 
 
-    public virtual Member? Member { get; set; } 
+    public virtual Member? Member { get; set; }
 
     public string MemberId { get; set; } = null!;
 
@@ -59,5 +66,7 @@ public class AddProjectForm
     public IEnumerable<Status> Statuses { get; set; } = [];
 
     public int StatusId { get; set; }
+
+
 
 }

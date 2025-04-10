@@ -80,28 +80,45 @@
                     <input asp-for="Budget" />
                 </div>
 
-                  <div class="form-group">
+                <div class="form-group">
                     <div class="field-label-group">
-                        <label asp-for="StatusId"></label>
-                        <span asp-validation-for="StatusId"></span>
+                        <label asp-for="Status.Id">Status</label>
+                        <span asp-validation-for="Status.StatusName"></span>
                     </div>
-                    <input asp-for="StatusId" />
+                    <select asp-for="Status.Id" class="form-control">
+                        <option value="">-- Select Status --</option>
+                        @foreach (var status in Model.Statuses)
+                        {
+                            <option value="@status.Id">@status.StatusName</option>
+                        }
+                    </select>
                 </div>
 
                 <div class="form-group">
                     <div class="field-label-group">
-                        <label asp-for="MemberId"></label>
-                        <span asp-validation-for="MemberId"></span>
+                        <label asp-for="Member.Id">Member</label>
                     </div>
-                    <input asp-for="MemberId" />
+                    <select asp-for="Member.Id" class="form-control">
+                        <option value="">-- Select Member --</option>
+                        @foreach (var member in Model.Members)
+                        {
+                            <option value="@member.Id">@member.FirstName @member.LastName</option>
+                        }
+                    </select>
                 </div>
 
                 <div class="form-group">
                     <div class="field-label-group">
-                        <label asp-for="ClientId"></label>
-                        <span asp-validation-for="ClientId"></span>
+                        <label asp-for="Client.Id">Client</label>
+                        <span asp-validation-for="Client.ClientName"></span>
                     </div>
-                    <input asp-for="ClientId" />
+                    <select asp-for="Client.Id" class="form-control">
+                        <option value="">-- Select a Client --</option>
+                        @foreach (var client in Model.Clients)
+                        {
+                            <option value="@client.Id">@client.ClientName</option>
+                        }
+                    </select>
                 </div>
 
 
@@ -119,3 +136,5 @@
 </script>
 <script src="~/js/site.js"></script>
 <script src="~/js/forms.js"></script>
+<script src="~/js/modals.js"></script>
+<script src="~/js/validate.js"></script>

@@ -332,15 +332,7 @@ main,
 /* ============================= */
 
 
-/*
-    gammal:
-    aside,
-.sidebar {
-    grid-area: sidebar;
-    border-right: 1px solid var(--border-color);
-    padding: 1.5rem 2rem;
-    width: 270px;
-}*/
+
 
 aside, .sidebar {
     grid-area: sidebar;
@@ -752,81 +744,13 @@ form {
 
 
 
-/*Gammal :
 
-    form {
-    position: relative;
-    width: 100%;
-}
-
-.form-footer {
-    margin-top: 3rem;
-}
-
-
-.form-group {
-    display: grid;
-    gap: 0.3rem;
-    margin-bottom: 1rem;
-    text-align: left;
-}
-
-.field-label-group {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-label {
-    font-size: 1em;
-    font-weight: 500;
-}
-
-input,
-select,
-textarea {
-    width: 100%;
-    font-size: 1em;
-    padding: 0.5rem 1rem;
-    border-radius: 10px;
-    border: 1px solid var(--form-input-border-color);
-    transition: border-color 0.1s ease-in-out;
-    outline: none;
-}
-
-    input:focus,
-    select:focus,
-    textarea:focus {
-        border-color: var(--form-input-border-focus-color);
-    }
-
-    input::placeholder,
-    select::placeholder,
-    textarea::placeholder {
-        color: var(--form-input-placeholder-color);
-        font-size: 0.9em;
-    }
-
-.field-validation-error {
-    font-size: 0.7em;
-    color: var(--form-error-message-text-color);
-    background-color: var(--form-error-message-background-color);
-    padding: 3px 8px;
-    border-radius: 5px;
-}
-
-
-*/
 
 /* ============================= */
 /*       Sektionrubriker       */
 /* ============================= */
 
-.page-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+
 
 .page-header {
     display: flex;
@@ -862,6 +786,14 @@ textarea {
         .page-header .btn span {
             display: block;
         }
+}
+
+.greeting {
+   display: flow;
+   justify-content: center;
+   align-items: center;
+   margin-top: 2rem;
+
 }
 
 /* ============================= */
@@ -1070,6 +1002,7 @@ margin-bottom: 2rem;
         border-radius: 10px;
         display: inline-block;
         margin-bottom: 2rem;
+        margin-top: 2rem;
     }
 
 
@@ -1319,5 +1252,9 @@ input:checked + .slider {
     font-family: var(--font-standard);
 }
 
-
+.eastereggforhans 
+{
+    margin-top: 10rem;
+    font-style: italic;
+}
 

@@ -390,7 +390,6 @@ C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\WebApp.RazorAssem
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cs
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\WebApp.sourcelink.json
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\scopedcss\bundle\WebApp.styles.css
-C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\fspdjdrw69-wnbgyun4lc.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\15ykilufbm-61n19gt1b8.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\g40q8zqi2e-6cbm70nql2.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\smg0xeyzou-e7vskmhp1p.gz
@@ -401,7 +400,6 @@ C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\ww54iy
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\70iqf6e3la-flsw1t00tn.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\exyqat9j8u-q2ndq6n8wg.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\wzf6ou8coa-vh7x1k3idx.gz
-C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\5wk3qh7byk-e1pdd1nehp.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\nzymtqkpc3-sld3731iva.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\9iptv7quwy-s0pxu39nep.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\staticwebassets.build.json
@@ -420,4 +418,13 @@ C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\refint\WebApp.dll
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\WebApp.pdb
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\ref\WebApp.dll
-C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\bdtaxi25ky-h4a3fv1yc2.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\5wk3qh7byk-zl5uyysv1j.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\bdtaxi25ky-dp29rtm173.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.Mvc.dll
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.Razor.dll
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.Helpers.dll
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.WebPages.Deployment.dll
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.WebPages.Razor.dll
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\System.Web.WebPages.dll
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\bin\Debug\net9.0\Microsoft.Web.Infrastructure.dll
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\fspdjdrw69-6148n2ikfd.gz

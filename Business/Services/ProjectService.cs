@@ -26,7 +26,7 @@ public class ProjectService(IProjectRepository projectRepository, IStatusService
         var statusResult = await _statusService.GetStatusByIdAsync(1);
         var status = statusResult.Result;
         projectEntity.StatusId = status!.Id;
-
+        projectEntity.Created = DateTime.Now;
 
         var result = await _projectRepository.CreateAsync(projectEntity);
         return result.Succeeded
@@ -69,39 +69,18 @@ public class ProjectService(IProjectRepository projectRepository, IStatusService
 
     }
 
+
+    public async Task<ProjectResult> UpdateProjectAsync(EditProjectForm form)
+    {
+        if (form == null)
+            return new ProjectResult { Succeeded = false, StatusCode = 400, Error = "Not all required fields are filled." };
+        var projectEntity = form.MapTo<ProjectEntity>();
+        var result = await _projectRepository.UpdateAsync(projectEntity);
+        return result.Succeeded
+            ? new ProjectResult { Succeeded = true, StatusCode = 200 }
+            : new ProjectResult { Succeeded = false, StatusCode = result.StatusCode, Error = result.Error };
+    }
 }
-//    public async Task<bool> CreateProjectAsync(AddProjectForm form)
-
-//    {
-//        try
-//        {
-
-//            var projectEntity = ProjectFactory.Create(form);
-//            if (projectEntity == null)
-//                return false;
-
-//            bool result = await _projectRepository.CreateAsync(projectEntity);
-//            return result;
-//        }
-//        catch (Exception ex)
-//        {
-//            Debug.WriteLine(ex.Message);
-//            return false;
-//        }
-//    }
-
-//    public async Task<IEnumerable<Project>> GetProjectsAsync()
-//    {
 
 
-//        var entities = await _projectRepository.GetAllAsync();
 
-//        var projects = entities.Select(ProjectFactory.Create);
-
-//        return projects;
-//    }
-
-//    //Fortsätt CRUD
-
-
-//

@@ -1,9 +1,11 @@
 ﻿using Domain.Models;
+using System.Web.Mvc;
 
 namespace WebApp.ViewModels;
 
 public class ProjectsViewModel
 {
+    
     public IEnumerable<Project> Projects { get; set; } = [];
 
     public IEnumerable<Client> Clients { get; set; } = [];

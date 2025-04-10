@@ -73,6 +73,8 @@ public async Task<MemberResult> CreateMemberAsync(UserSignUpForm signUpForm, str
             userEntity.UserName = signUpForm.Email; 
             userEntity.Email = userEntity.UserName;
 
+            
+
             var result = await _userManager.CreateAsync(userEntity, signUpForm.Password);
            
 
@@ -150,74 +152,26 @@ public async Task<MemberResult> CreateMemberAsync(UserSignUpForm signUpForm, str
 
     }
 
+    public async Task<MemberResult<Member>> GetMemberByIdAsync(string id)
+    {
+        var response = await _userRepository.GetAsync(x => x.Id == id);
+        var entity = response.Result;
+        if (entity == null)
+            return new MemberResult<Member> { Succeeded = false, StatusCode = 404, Error = $"User with id '{id}' was not found" };
+
+        var user = entity.MapTo<Member>();
+        return new MemberResult<Member> { Succeeded = true, StatusCode = 200, Result = user };
+    }
+
+    public async Task<string> GetDisplayNameAsync(string memberId)
+    {
+        if (string.IsNullOrEmpty(memberId))
+            return "";
+        var member = await _userManager.FindByIdAsync(memberId);
+        return member == null ? "" : $"{member.FirstName} {member.LastName}";
+    }
+
 
 }
 
-////Lägg till repository här om det ska användas:
-//public class MemberService(UserManager<UserEntity> userManager) : IMemberService
-//{
 
-
-//    private readonly UserManager<UserEntity> _userManager = userManager;
-
-
-
-//    ////lägg till skapa member
-//    //public async Task<IEnumerable<Member>> GetMembersAsync()
-//    //{
-//    //    var list = await _userManager.Users.Include(x => x.Address).ToListAsync();
-//    //    var members = list.Select(x => new Member
-//    //    {
-//    //        Id = x.Id,
-//    //       ImageUrl = x.ImageUrl,
-//    //        FirstName = x.FirstName,
-//    //        LastName = x.LastName,
-//    //        Email = x.Email,
-//    //        JobTitle = x.JobTitle,
-//    //        PhoneNumber = x.PhoneNumber,
-
-//    //        Address = new MemberAddress
-//    //        {
-//    //            StreetName = x.Address?.StreetName,
-//    //            PostalCode = x.Address?.PostalCode,
-//    //            City = x.Address?.City,
-//    //        }
-
-//    //    });
-
-
-//    //    return members;
-//    //}
-
-
-//    ////SKicka tillbaka EN Member:
-//    //public async Task<Member> GetSingleMemberAsync() 
-//    //{
-//    //    var user = await _userManager.Users.Include(x => x.Address).FirstOrDefaultAsync();
-
-//    //    if (user == null)
-//    //        return null;
-
-//    //    var member =  new Member
-//    //    {
-//    //        Id = user.Id,
-//    //        ImageUrl = user.ImageUrl,
-//    //        FirstName = user.FirstName,
-//    //        LastName = user.LastName,
-//    //        Email = user.Email,
-//    //        JobTitle = user.JobTitle,
-//    //        PhoneNumber = user.PhoneNumber,
-
-//    //        Address = new MemberAddress
-//    //        {
-//    //            StreetName = user.Address?.StreetName,
-//    //            PostalCode = user.Address?.PostalCode,
-//    //            City = user.Address?.City,
-//    //        }
-
-//    //    };
-
-
-//    //    return member;
-//    //}
-//}

@@ -1,5 +1,6 @@
 ﻿@model ProjectsViewModel
 
+
 @{
     ViewData["Title"] = "Projects";
 }
@@ -35,18 +36,18 @@
                 <h4 class="name">@project.ProjectName</h4>
                 <div class="project-description">@project.Description</div>
 
-                <div class="startdate">@project.StartDate - @project.EndDate</div>
-                <div class="enddate"></div>
+                <div class="startdate"> @project.StartDate </div>
+                <div class="enddate"> @project.EndDate</div>
                 <div class="budget" >
-                    <i class="fa-duotone fa-usd"></i>
-
-                    <i src="~/images/symbols/Dollar.svg" alt="" />
+@*                     <i class="fa-duotone fa-usd"></i>
+ *@
                     @project.Budget SEK 
                 </div>
-                <div class="status"> @project.Status</div>
+                <div class="status">Ongoing  @project.Status</div>
 
                 <div class="project-members"> Members: @project.Member?.FirstName</div>
                 <div class="project-client">Client: @project.Client.ClientName</div>
+                <div class="project-created">Created: @project.Created</div>
 
 
 
