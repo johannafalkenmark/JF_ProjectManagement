@@ -50,7 +50,7 @@ public class ProjectService(IProjectRepository projectRepository, IStatusService
             include => include.Client
             );
         return new ProjectResult<IEnumerable<Project>> { Succeeded = true, StatusCode = 201, Result = response.Result };
-        //Hade kunnat endast skicka tillbaka mapto här
+        //Hade kunnat endast skicka tillbaka mapto här.
     }
 
 
