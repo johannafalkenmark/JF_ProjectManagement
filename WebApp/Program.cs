@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Rewrite;
 using Microsoft.EntityFrameworkCore;
 
-//JOHANNA F 7 april FINAL
+//JOHANNA F 11 april FINAL
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
