@@ -23,6 +23,15 @@ public class UserSignUpForm
     [Display(Name = "Last Name", Prompt = "Enter last name")]
     public string LastName { get; set; } = null!;
 
+    [DataType(DataType.Text)]
+    [Display(Name = "Phone Number", Prompt = "Enter phone number")]
+    public string? PhoneNumber { get; set; }
+
+
+    [DataType(DataType.Text)]
+    [Display(Name = "JobTitle", Prompt = "Enter job title")]
+    public string? JobTitle { get; set; }
+
 
     [Required]
     [DataType(DataType.EmailAddress)]

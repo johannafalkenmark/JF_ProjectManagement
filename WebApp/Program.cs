@@ -11,6 +11,8 @@ using Microsoft.EntityFrameworkCore;
 //JOHANNA F 11 april FINAL
 
 var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.UseSetting(WebHostDefaults.DetailedErrorsKey, "true");
+
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<DataContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("AlphaDB")));
@@ -75,7 +77,7 @@ using (var scope = app.Services.CreateScope())
     }
 
     var userManager = scope.ServiceProvider.GetRequiredService<UserManager<UserEntity>>();
-    var user = new UserEntity { UserName = "admin@mail.com", Email = "admin@mail.com" };
+    var user = new UserEntity {UserName = "admin@mail.com", Email = "admin@mail.com" };
 
     var userExists = await userManager.Users.AnyAsync(x => x.Email == user.Email);
     if (!userExists)
@@ -92,7 +94,7 @@ using (var scope = app.Services.CreateScope())
 
 app.MapStaticAssets();
 
-//ENKLARE SÄTT ÄN MIDDLEWARE, ev ta bort:
+
 
 app.MapControllerRoute(
     name: "default",

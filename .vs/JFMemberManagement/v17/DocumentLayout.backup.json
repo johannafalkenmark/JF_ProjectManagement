@@ -3,84 +3,41 @@
   "WorkspaceRootPath": "C:\\ProjectsSchool\\ProjectHandlerSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|c:\\projectsschool\\projecthandlersystem\\business\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|solutionrelative:business\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\admin\\members.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\members.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|c:\\projectsschool\\projecthandlersystem\\domain\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|solutionrelative:domain\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\shared\\partials\\_userprofileoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\partials\\_userprofileoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|c:\\projectsschool\\projecthandlersystem\\domain\\models\\usersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|solutionrelative:domain\\models\\usersignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\shared\\partials\\modals\\_addprojectmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\partials\\modals\\_addprojectmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|c:\\projectsschool\\projecthandlersystem\\domain\\models\\addmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|solutionrelative:domain\\models\\addmemberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\admin\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\shared\\partials\\modals\\_addmembermodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\partials\\modals\\_addmembermodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\admin\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\shared\\partials\\modals\\_editprojectmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\partials\\modals\\_editprojectmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.Clients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|c:\\projectsschool\\projecthandlersystem\\domain\\models\\editprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|solutionrelative:domain\\models\\editprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|c:\\projectsschool\\projecthandlersystem\\domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C90EC594-B37A-44C2-8707-9F709BFD3988}|Domain\\Domain.csproj|solutionrelative:domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|c:\\projectsschool\\projecthandlersystem\\data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|solutionrelative:data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|c:\\projectsschool\\projecthandlersystem\\business\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|solutionrelative:business\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|c:\\projectsschool\\projecthandlersystem\\business\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE5E52FF-5535-4CEC-AE0F-DBBEE1E91B80}|Business\\Business.csproj|solutionrelative:business\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|c:\\projectsschool\\projecthandlersystem\\data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|solutionrelative:data\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|c:\\projectsschool\\projecthandlersystem\\data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|solutionrelative:data\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|c:\\projectsschool\\projecthandlersystem\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|c:\\projectsschool\\projecthandlersystem\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ABEE391E-6DDA-4870-9BCC-38582CB121C5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|c:\\projectsschool\\projecthandlersystem\\data\\migrations\\20250411083427_changedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E366B89-0843-46DE-B9A2-D8A8774119D5}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250411083427_changedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +47,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 51,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,267 +55,126 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Clients.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Clients.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\Clients.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Clients.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Admin\\Clients.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T11:35:01.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_AddProjectModal.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddProjectModal.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T07:56:16.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_UserProfileOptions.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\_UserProfileOptions.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Partials\\_UserProfileOptions.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\_UserProfileOptions.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\Partials\\_UserProfileOptions.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T11:32:40.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Services\\MemberService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\MemberService.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Services\\MemberService.cs",
-              "RelativeToolTip": "Business\\Services\\MemberService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:14:04.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClientService.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Services\\ClientService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\ClientService.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Services\\ClientService.cs",
-              "RelativeToolTip": "Business\\Services\\ClientService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:13:31.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:01:46.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T07:40:25.35Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 470,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Services\\ProjectService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\ProjectService.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Business\\Services\\ProjectService.cs",
-              "RelativeToolTip": "Business\\Services\\ProjectService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvzQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:02:48.532Z",
-              "IsPinned": true,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T12:01:54.046Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Members.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Members.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\Members.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Members.cshtml*",
-              "RelativeToolTip": "WebApp\\Views\\Admin\\Members.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T11:38:14.551Z",
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Member.cs",
+              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\Member.cs",
+              "RelativeToolTip": "Domain\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:58:43.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_EditProjectModal.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\Modals\\_EditProjectModal.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Partials\\Modals\\_EditProjectModal.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\Modals\\_EditProjectModal.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\Partials\\Modals\\_EditProjectModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AddMemberForm.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\AddMemberForm.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AddMemberForm.cs",
+              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\AddMemberForm.cs",
+              "RelativeToolTip": "Domain\\Models\\AddMemberForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:57:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSignUpForm.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\UserSignUpForm.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserSignUpForm.cs",
+              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\UserSignUpForm.cs",
+              "RelativeToolTip": "Domain\\Models\\UserSignUpForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:57:02.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T10:48:59.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Project.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\Project.cs",
-              "RelativeToolTip": "Domain\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:21:53.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:21:21.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EditProjectForm.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\EditProjectForm.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\EditProjectForm.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Domain\\Models\\EditProjectForm.cs",
-              "RelativeToolTip": "Domain\\Models\\EditProjectForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:17:39.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Repositories\\ProjectRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\ProjectRepository.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Repositories\\ProjectRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\ProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:08:19.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProjectEntity.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Entities\\ProjectEntity.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\ProjectEntity.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Entities\\ProjectEntity.cs",
-              "RelativeToolTip": "Data\\Entities\\ProjectEntity.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:07:37.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProjectsViewModel.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\ViewModels\\ProjectsViewModel.cs",
-              "RelativeDocumentMoniker": "WebApp\\ViewModels\\ProjectsViewModel.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\ViewModels\\ProjectsViewModel.cs",
-              "RelativeToolTip": "WebApp\\ViewModels\\ProjectsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T08:56:44.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T08:12:15.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAM8DAAAAAAAAAAAawNwDAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-10T07:47:45.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T08:28:15.07Z"
+              "WhenOpened": "2025-04-11T11:55:53.223Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Projects.cshtml",
-              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Projects.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Admin\\Projects.cshtml",
-              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Admin\\Projects.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Admin\\Projects.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADgAAAAKAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:23:01.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T08:37:25.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AddMemberModal.cshtml",
+              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddMemberModal.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddMemberModal.cshtml",
+              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\WebApp\\Views\\Shared\\Partials\\Modals\\_AddMemberModal.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\Partials\\Modals\\_AddMemberModal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T07:54:57.718Z"
+              "WhenOpened": "2025-04-11T08:36:14.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Clients.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.Clients.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/asp_sqlserver_jf.database.windows.net/JFDatabase/SqlAdmin/SqlTable/dbo.Clients.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T08:35:09.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250411083427_Changedatabase.cs",
+              "DocumentMoniker": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Migrations\\20250411083427_Changedatabase.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250411083427_Changedatabase.cs",
+              "ToolTip": "C:\\ProjectsSchool\\ProjectHandlerSystem\\Data\\Migrations\\20250411083427_Changedatabase.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250411083427_Changedatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:34:27.709Z"
             }
           ]
         },
         {
-          "DockedWidth": 123,
+          "DockedWidth": 32,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

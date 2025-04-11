@@ -411,7 +411,6 @@ C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\staticwebassets\m
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApp.props
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\staticwebassets.pack.json
-C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\WebApp.csproj.Up2Date
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\WebApp.dll
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\refint\WebApp.dll
@@ -435,3 +434,4 @@ C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\5nlhjm
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\6njqhnzril-tjo3vajq30.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\ws1bfzqupf-9f1i82pg2l.gz
 C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\compressed\d3h65q0x7m-f0gcp7bx5r.gz
+C:\ProjectsSchool\ProjectHandlerSystem\WebApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

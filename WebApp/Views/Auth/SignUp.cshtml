@@ -41,6 +41,22 @@
                 </div>
                 <input asp-for="LastName" />
             </div>
+
+            <div class="form-group">
+                <div class="field-label-group">
+                    <label asp-for="JobTitle"></label>
+                    <span asp-validation-for="JobTitle"></span>
+                </div>
+                <input asp-for="JobTitle" />
+            </div>
+            <div class="form-group">
+                <div class="field-label-group">
+                    <label asp-for="PhoneNumber"></label>
+                    <span asp-validation-for="PhoneNumber"></span>
+                </div>
+                <input asp-for="PhoneNumber" />
+            </div>
+
             <div class="form-group">
                 <div class="field-label-group">
                     <label asp-for="Email"></label>
@@ -48,6 +64,7 @@
                 </div>
                 <input asp-for="Email" />
             </div>
+
             <div class="form-group">
                 <div class="field-label-group">
                     <label asp-for="Password"></label>
